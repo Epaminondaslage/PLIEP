@@ -52,22 +52,20 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 
 ## UNIDADE 2 ‐ Instalações Elétricas Prediais II
 
-2.1 Funcionamento dos motores de indução;
-2.2 Estudo das partes construtivas dos motores de indução:Estator: tipos de ligação do bobinado e representação, rotor e entreferro, carcaça e dispositivos auxiliares;
-2.3 Estudo da fórmula geral dos motores de indução;
-2.4 Classificação dos motores comerciais e leitura de placa;
-2.5 Cálculo dos parâmetros dos motores,monofásicos,bifásicos e trifásicos;
-2.6. Instalação de circuitos de moto-bomba e chaves-bóias. 
-2.7. Estudo dos materiais utilizados no bobinamento;
-2.8. Estudo de causas dos defeitos nos motores;
-2.9. Manutenção preventiva e corretiva de motores e organização técnica.
+1. Funcionamento dos motores de indução;
+2. Estudo das partes construtivas dos motores de indução:Estator: tipos de ligação do bobinado e representação, rotor e entreferro, carcaça e dispositivos auxiliares;
+3. Estudo da fórmula geral dos motores de indução;
+4. Classificação dos motores comerciais e leitura de placa;
+5. Cálculo dos parâmetros dos motores,monofásicos,bifásicos e trifásicos;
+6. Instalação de circuitos de moto-bomba e chaves-bóias.
+7. Estudo dos materiais utilizados no bobinamento;
+8. Estudo de causas dos defeitos nos motores;
+9. Manutenção preventiva e corretiva de motores e organização técnica.
 
 ## 3 – Metodologia de Ensino
 Lousa branca, filmes, painel didáticos para montagens, box didático, apostila, avaliação prática/teórica.
 
 ## 4– Bibliografia
-
-## Bibliografia Básica:
 
 - VIEIRA, C. M. . Apostila Instalações Elétricas Prediais Edição. Belo Horizonte: Gráfica do CEFETMG, 2015
 - CAVALIN, GeIaldo e CERVELIN, Severino. Instalações Elétricas Prediais. 16a ed. São Paulo: Érica, 1988.
