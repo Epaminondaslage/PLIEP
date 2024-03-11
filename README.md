@@ -62,14 +62,12 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 2.8. Estudo de causas dos defeitos nos motores;
 2.9. Manutenção preventiva e corretiva de motores e organização técnica.
 
-### 3 – Metodologia de Ensino
+## 3 – Metodologia de Ensino
+
 Lousa branca, filmes, painel didáticos para montagens, box didático, apostila, avaliação prática/teórica.
 
-### 4– Bibliografia
+## 4– Bibliografia
 
-### Bibliografia Básica:
-
-VIEIRA, C. M. . Apostila Instalações Elétricas Prediais Edição. Belo Horizonte: Gráfica do CEFETMG, 2015
-CAVALIN, GeIaldo e CERVELIN, Severino. Instalações Elétricas Prediais. 16a ed. São Paulo: Érica, 1988.
-NISKIER, J. e MACINTYRE, A. J. . Instalações Elétricas. 6a ed. Rio de Janeiro: LTC, 2013. 443p.
- 
+- VIEIRA, C. M. . Apostila Instalações Elétricas Prediais Edição. Belo Horizonte: Gráfica do CEFETMG, 2015
+- CAVALIN, GeIaldo e CERVELIN, Severino. Instalações Elétricas Prediais. 16a ed. São Paulo: Érica, 1988.
+- NISKIER, J. e MACINTYRE, A. J. . Instalações Elétricas. 6a ed. Rio de Janeiro: LTC, 2013. 443p. 
