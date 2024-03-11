@@ -6,7 +6,7 @@
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 </p>
 <p><strong><span style="color: #0000ff;">Agradecimento ao Prof Colimar Marques Vieira pela elaboração e disponibilização do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais</span></strong></p>
-<a href="[http://lattes.cnpq.br/4432862799465667](http://lattes.cnpq.br/6396746713320016)"> Currículo Lattes VIEIRA, C. Marques.</a> </p>
+<a href="http://lattes.cnpq.br/4432862799465667"> Currículo Lattes VIEIRA, C. M.</a> </p>
  
 # Regras básicas de segurança do Laboratório de Circuitos Elétricos
 
