@@ -50,6 +50,8 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 # PLIEP- Laboratório de Prática de Instalações Elétricas Prediais
 
+## Programa da Disciplina
+
 ## I Objetivos
 
 Ao final da 2a série, o aluno deverá ser capaz de:
