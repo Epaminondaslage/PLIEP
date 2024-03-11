@@ -23,9 +23,12 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 
 ## UNIDADE 1 – Conceitos, Diagramas, Dimensionamento
 
-1.1. Segurança em Eletricidade, sistema elétrico de potência; normas e simbologia  
+1.1. Segurança em Eletricidade, sistema elétrico de potência; normas e simbologia
+
 1.2. Instalações Elétricas Prediais, identificação de condutores;
+
 1.3. Diagramas elétricos multifilares, instalações em painéis didáticos;
+
 1.4. Diagramas unifilares simbologia planta baixa;
 1.5. Planta baixa e escalas - Noções de leitura e traçado;
 1.6. Divisão de circuitos elétricos em instalações elétricas prediais, proteção e dimensionamento de: disjuntores DTM, IDR, DDR, DPS;
@@ -63,11 +66,12 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 2.9. Manutenção preventiva e corretiva de motores e organização técnica.
 
 ## 3 – Metodologia de Ensino
-
 Lousa branca, filmes, painel didáticos para montagens, box didático, apostila, avaliação prática/teórica.
 
 ## 4– Bibliografia
 
+## Bibliografia Básica:
+
 - VIEIRA, C. M. . Apostila Instalações Elétricas Prediais Edição. Belo Horizonte: Gráfica do CEFETMG, 2015
 - CAVALIN, GeIaldo e CERVELIN, Severino. Instalações Elétricas Prediais. 16a ed. São Paulo: Érica, 1988.
-- NISKIER, J. e MACINTYRE, A. J. . Instalações Elétricas. 6a ed. Rio de Janeiro: LTC, 2013. 443p. 
+- NISKIER, J. e MACINTYRE, A. J. . Instalações Elétricas. 6a ed. Rio de Janeiro: LTC, 2013. 443p.
