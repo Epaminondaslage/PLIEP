@@ -29,33 +29,33 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 4. Diagramas unifilares simbologia planta baixa;
 5. Planta baixa e escalas - Noções de leitura e traçado;
 6. Divisão de circuitos elétricos em instalações elétricas prediais, proteção e dimensionamento de: disjuntores DTM, IDR, DDR, DPS;
-1.7. Cálculo e dimensionamento de condutores, utilização de tabelas;
-1.8. Identificação e manuseio de materiais e ferramentas usados em instalações Elétricas prediais;
-1.9. Tipos de emendas utilizadas nas instalações elétricas com: fios, cabos e conectores; 
-1.10. Instalação e montagem de quadro de distribuição, QDL, QDC, QDF;
-1.11. Instalação de interruptores uma, duas e três seções, para o comando de lâmpadas incandescentes e de descarga;
-1.12. Instalação de tomadas 2P+T, pulsador de campainha e campainha;
-1.13. Instalação e interruptores paralelo simples em circuitos de iluminação residencial e predial;
-1.14. Instalação e interruptores paralelo duplo em circuitos de iluminação residencial e Predial;
-1.15. Instalação e interruptores paralelo triplo em circuitos de iluminação residencial e predial;
-1.16. Instalação de interruptores intermediários em circuitos de iluminação residencial e predial;
-1.17. Instalação de circuitos de iluminação residencial e predial comandados por Minuteria eletrônica;
-1.18. Instalação de circuitos de iluminação residencial e predial comandados por relé de impulso;
-1.19. Instalação de circuitos de iluminação residencial e predial comandados por interruptor de presença;
-1.20. Instalação de programador horário para instalação residencial e predial;
-1.21. Instalação de relé fotoelétrico para controle de circuitos residenciais e predial com lâmpadas de descarga;
-1.22. Instalação de circuitos de comunicação, chamadas e segurança; 
-1.23. Instalação de Interfone - Porteiro Eletrônico residencial e predial; 
-1.24. Instalação de circuito fechado ou circuito interno de TV. (CFTV); 
-1.25. Instalação de circuito de Alarme;
-1.26. Elaboração e execução de projeto elétrico.
+7. Cálculo e dimensionamento de condutores, utilização de tabelas;
+8. Identificação e manuseio de materiais e ferramentas usados em instalações Elétricas prediais;
+9. Tipos de emendas utilizadas nas instalações elétricas com: fios, cabos e conectores;
+10. Instalação e montagem de quadro de distribuição, QDL, QDC, QDF;
+11. Instalação de interruptores uma, duas e três seções, para o comando de lâmpadas incandescentes e de descarga;
+12. Instalação de tomadas 2P+T, pulsador de campainha e campainha;
+13. Instalação e interruptores paralelo simples em circuitos de iluminação residencial e predial;
+14. Instalação e interruptores paralelo duplo em circuitos de iluminação residencial e Predial;
+15. Instalação e interruptores paralelo triplo em circuitos de iluminação residencial e predial;
+16. Instalação de interruptores intermediários em circuitos de iluminação residencial e predial;
+17. Instalação de circuitos de iluminação residencial e predial comandados por Minuteria eletrônica;
+18. Instalação de circuitos de iluminação residencial e predial comandados por relé de impulso;
+19. Instalação de circuitos de iluminação residencial e predial comandados por interruptor de presença;
+20. Instalação de programador horário para instalação residencial e predial;
+21. Instalação de relé fotoelétrico para controle de circuitos residenciais e predial com lâmpadas de descarga;
+22. Instalação de circuitos de comunicação, chamadas e segurança;
+23. Instalação de Interfone - Porteiro Eletrônico residencial e predial;
+24. Instalação de circuito fechado ou circuito interno de TV. (CFTV);
+25. Instalação de circuito de Alarme;
+26. Elaboração e execução de projeto elétrico.
 
 ## UNIDADE 2 ‐ Instalações Elétricas Prediais II
 
-2.1. Funcionamento dos motores de indução;
-2.2. Estudo das partes construtivas dos motores de indução:Estator: tipos de ligação do bobinado e representação, rotor e entreferro, carcaça e dispositivos auxiliares; 
-2.3. Estudo da fórmula geral dos motores de indução;
-2.4. Classificação dos motores comerciais e leitura de placa;
+2.1 Funcionamento dos motores de indução;
+2.2 Estudo das partes construtivas dos motores de indução:Estator: tipos de ligação do bobinado e representação, rotor e entreferro, carcaça e dispositivos auxiliares;
+2.3 Estudo da fórmula geral dos motores de indução;
+2.4 Classificação dos motores comerciais e leitura de placa;
 2.5 Cálculo dos parâmetros dos motores,monofásicos,bifásicos e trifásicos;
 2.6. Instalação de circuitos de moto-bomba e chaves-bóias. 
 2.7. Estudo dos materiais utilizados no bobinamento;
