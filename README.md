@@ -44,10 +44,9 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 # Onde encontrar o material didático para download?
 
-<img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
+<img width="140" alt="image" src="https://github.com/Epaminondaslage/PLIEP/blob/main/Apostila%20Instalac%CC%A7o%CC%83es%20Ele%CC%81tricas%20-%202016(V3).pdf%202024-03-11%2018-11-27.jpg">
 
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
-<p>Os Slides com  o conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. </p>
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 # PLIEP- Laboratório de Prática de Instalações Elétricas Prediais
 
