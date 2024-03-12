@@ -54,7 +54,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <td colspan="2">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 32.1053%;"><img width="140" alt="image" src="img/Apostila%20Instalac%CC%A7o%CC%83es%20Ele%CC%81tricas%20-%202016(V3).pdf%202024-03-11%2018-11-27.jpg></td>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/Apostila Instalações Elétricas - 2016(V3).pdf 2024-03-11 18-11-27.jpg></td>
 <td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
