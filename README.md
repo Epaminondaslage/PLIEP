@@ -5,8 +5,12 @@
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 </p>
-<p><strong><span style="color: #0000ff;">Agradecimento ao Prof Colimar Marques Vieira pela elaboração e disponibilização do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais</span></strong></p>
+<p><strong><span style="color: #0000ff;">Agradecimentos</span></strong></p>
+<p><strong><span style="color: #0000ff;">Prof Colimar Marques Vieira pela elaboração e disponibilização do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais</span></strong></p>
 <a href="http://lattes.cnpq.br/4432862799465667"> Currículo Lattes VIEIRA, C. M.</a> </p>
+
+ <p><strong><span style="color: #0000ff;">Prof Welligton Passos de Almeida pela elaboração e disponibilização do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais</span></strong></p>
+<a href="http://lattes.cnpq.br/8651107332611509"> Currículo Lattes ALMEIDA, W. P.</a> </p>
  
 # Regras básicas de segurança do Laboratório de Circuitos Elétricos
 
@@ -46,7 +50,9 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 <img width="140" alt="image" src="https://github.com/Epaminondaslage/PLIEP/blob/main/Apostila%20Instalac%CC%A7o%CC%83es%20Ele%CC%81tricas%20-%202016(V3).pdf%202024-03-11%2018-11-27.jpg">
 
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila.</p>
+
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Welligton Passos de Almeida. Clique <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing">aqui</a> para baixar a apostila.</p>
 
 # PLIEP- Laboratório de Prática de Instalações Elétricas Prediais
 
@@ -65,11 +71,7 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 - Executar projetos de instalações prediais de baixa tensão.
 - Especificar materiais e equipamentos para as instalações elétricas.
 - Supervisionar a execução de instalações elétricas de BT.
-- Identificar os componentes utilizados em acionamentos automatizados de motores elétricos.
-- Conhecer detalhes construtivos dos motores de indução.
-- Interpretar parâmetros comerciais dos motores de indução.
-- Identificar e analisar falhas em motores elétricos.
-- Elaborar Plano de Manutenção de Máquinas Elétricas.
+
 
 ## 2– Conteúdo Programático
 
@@ -100,19 +102,8 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 23. Instalação de Interfone - Porteiro Eletrônico residencial e predial;
 24. Instalação de circuito fechado ou circuito interno de TV. (CFTV);
 25. Instalação de circuito de Alarme;
-26. Elaboração e execução de projeto elétrico.
 
-## UNIDADE 2 ‐ Instalações Elétricas Prediais II
 
-1. Funcionamento dos motores de indução;
-2. Estudo das partes construtivas dos motores de indução:Estator: tipos de ligação do bobinado e representação, rotor e entreferro, carcaça e dispositivos auxiliares;
-3. Estudo da fórmula geral dos motores de indução;
-4. Classificação dos motores comerciais e leitura de placa;
-5. Cálculo dos parâmetros dos motores,monofásicos,bifásicos e trifásicos;
-6. Instalação de circuitos de moto-bomba e chaves-bóias.
-7. Estudo dos materiais utilizados no bobinamento;
-8. Estudo de causas dos defeitos nos motores;
-9. Manutenção preventiva e corretiva de motores e organização técnica.
 
 ## 3 – Metodologia de Ensino
 Lousa branca, filmes, painel didáticos para montagens, box didático, apostila, avaliação prática/teórica.
