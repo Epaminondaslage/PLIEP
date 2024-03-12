@@ -125,3 +125,38 @@ Lousa branca, filmes, painel didáticos para montagens, box didático, apostila,
 - VIEIRA, C. M. . Apostila Instalações Elétricas Prediais Edição. Belo Horizonte: Gráfica do CEFETMG, 2015
 - CAVALIN, GeIaldo e CERVELIN, Severino. Instalações Elétricas Prediais. 16a ed. São Paulo: Érica, 1988.
 - NISKIER, J. e MACINTYRE, A. J. . Instalações Elétricas. 6a ed. Rio de Janeiro: LTC, 2013. 443p.
+
+# Conteúdo das Aulas Práticas
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>Aula Introdutória - Laboratorio de Instalações Elétricas Prediais </p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">Normas de uso do laboratório</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15-e8w66IDW6GQ7uLKFE-W6ClPJs2jThm/view?usp=sharing">Conceitos Fundamentais de instumentos de medidas el&eacute;tricas</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px;" width="378" border="1">
+<tbody>
+<tr>
+<td colspan="2" style="text-align: center;">1&ordf; Aula Pr&aacute;tica: Lei de Ohm</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<p>
