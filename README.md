@@ -54,12 +54,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <td colspan="2">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 32.1053%;"><img width="140" alt="image" src="/img/Apostila%20Instalac%CC%A7o%CC%83es%20Ele%CC%81tricas%20-%202016(V3).pdf%202024-03-11%2018-11-27.jpg> </td>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/Apostila%20Instalac%CC%A7o%CC%83es%20Ele%CC%81tricas%20-%202016(V3).pdf%202024-03-11%2018-11-27.jpg></td>
 <td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
 </table>
-
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -67,14 +66,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
-<td style="width: 67.8947%;">APOSTILA DE LÓGICA APLICADO A SCILAB ,Instituto Federal de Educação, Ciência e Tecnologia Catarinense – Câmpus Luzerna. Clique <a href="https://drive.google.com/file/d/1GP8qyMvgIux13rwsjVH8vTJywOr1-Alw/view?usp=sharing">aqui</a> para baixar a apostila.</td>
+<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Welligton Passos de Almeida. Clique <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing">aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
 </table>
 <p></p>
-
-
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Welligton Passos de Almeida. Clique <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing">aqui</a> para baixar a apostila.</p>
 
 # PLIEP- Laboratório de Prática de Instalações Elétricas Prediais
 
