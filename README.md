@@ -149,7 +149,7 @@ Lousa branca, filmes, painel didáticos para montagens, box didático, apostila,
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
-<td colspan="2" style="text-align: center;">2ª Aula prática:  Diagramas Multifilares/td>
+<td colspan="2" style="text-align: center;">2ª Aula prática:  Diagramas Multifilares</td>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
