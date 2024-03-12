@@ -95,25 +95,25 @@ Ao final da 2a série, o aluno deverá ser capaz de:
 4. Diagramas unifilares simbologia planta baixa;
 5. Planta baixa e escalas - Noções de leitura e traçado;
 6. Divisão de circuitos elétricos em instalações elétricas prediais, proteção e dimensionamento de: disjuntores DTM, IDR, DDR, DPS;
-7. Cálculo e dimensionamento de condutores, utilização de tabelas;
-8. Identificação e manuseio de materiais e ferramentas usados em instalações Elétricas prediais;
-9. Tipos de emendas utilizadas nas instalações elétricas com: fios, cabos e conectores;
-10. Instalação e montagem de quadro de distribuição, QDL, QDC, QDF;
-11. Instalação de interruptores uma, duas e três seções, para o comando de lâmpadas incandescentes e de descarga;
-12. Instalação de tomadas 2P+T, pulsador de campainha e campainha;
-13. Instalação e interruptores paralelo simples em circuitos de iluminação residencial e predial;
-14. Instalação e interruptores paralelo duplo em circuitos de iluminação residencial e Predial;
-15. Instalação e interruptores paralelo triplo em circuitos de iluminação residencial e predial;
-16. Instalação de interruptores intermediários em circuitos de iluminação residencial e predial;
-17. Instalação de circuitos de iluminação residencial e predial comandados por Minuteria eletrônica;
-18. Instalação de circuitos de iluminação residencial e predial comandados por relé de impulso;
-19. Instalação de circuitos de iluminação residencial e predial comandados por interruptor de presença;
-20. Instalação de programador horário para instalação residencial e predial;
-21. Instalação de relé fotoelétrico para controle de circuitos residenciais e predial com lâmpadas de descarga;
-22. Instalação de circuitos de comunicação, chamadas e segurança;
-23. Instalação de Interfone - Porteiro Eletrônico residencial e predial;
-24. Instalação de circuito fechado ou circuito interno de TV. (CFTV);
-25. Instalação de circuito de Alarme;
+7. Identificação e manuseio de materiais e ferramentas usados em instalações Elétricas prediais;
+8. Tipos de emendas utilizadas nas instalações elétricas com: fios, cabos e conectores;
+9. Instalação e montagem de quadro de distribuição, QDL, QDC, QDF;
+10. Instalação de interruptores uma, duas e três seções, para o comando de lâmpadas incandescentes e de descarga;
+11. Instalação de tomadas 2P+T, pulsador de campainha e campainha;
+12. Instalação e interruptores paralelo simples em circuitos de iluminação residencial e predial;
+13. Instalação e interruptores paralelo duplo em circuitos de iluminação residencial e Predial;
+14. Instalação e interruptores paralelo triplo em circuitos de iluminação residencial e predial;
+15. Instalação de interruptores intermediários em circuitos de iluminação residencial e predial;
+16. Instalação de circuitos de iluminação residencial e predial comandados por Minuteria eletrônica;
+17. Instalação de circuitos de iluminação residencial e predial comandados por relé de impulso;
+18. Instalação de circuitos de iluminação residencial e predial comandados por interruptor de presença;
+29. Instalação de programador horário para instalação residencial e predial;
+20. Instalação de relé fotoelétrico para controle de circuitos residenciais e predial com lâmpadas de descarga;
+21. Instalação de circuitos de comunicação, chamadas e segurança;
+22. Instalação de Interfone - Porteiro Eletrônico residencial e predial;
+23. Instalação de circuito fechado ou circuito interno de TV. (CFTV);
+24. Instalação de circuito de Alarme;
+25. Instalação de um PABX IP.
 
 
 
