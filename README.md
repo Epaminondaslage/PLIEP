@@ -169,10 +169,10 @@ Lousa branca, filmes, painel didáticos para montagens, box didático, apostila,
 </tr></tbody></table><p>
 
 
-4ª Aula prática:  Identificação de Ferramentas
-5ª Aula prática:  Tipos de Emendas, fios e cabos
-6ª Aula prática:  Diagramas Unifilares
-7ª Aula prática:  Instalações Embutidas
+- 4ª Aula prática:  Identificação de Ferramentas
+- 5ª Aula prática:  Tipos de Emendas, fios e cabos
+- 6ª Aula prática:  Diagramas Unifilares
+- 7ª Aula prática:  Instalações Embutidas
 8ª Aula prática:  Instalação Embutida	
 9ª Aula prática:  Instalação de Minuteria e Sensor de Presença	
 10ª Aula prática: Ventilador de Teto	
@@ -182,4 +182,4 @@ Lousa branca, filmes, painel didáticos para montagens, box didático, apostila,
 14ª Aula prática: Instalação de Circuitos de Interfone	
 15ª Aula prática: Programador Horário
 16ª Aula prática: CFTV	
-17ª Aula práticva: PABX IP
+17ª Aula prátiva: PABX IP
