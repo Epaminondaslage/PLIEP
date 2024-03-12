@@ -136,18 +136,20 @@ Lousa branca, filmes, painel didáticos para montagens, box didático, apostila,
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">Normas de uso do laboratório</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15-e8w66IDW6GQ7uLKFE-W6ClPJs2jThm/view?usp=sharing">Conceitos Fundamentais de instumentos de medidas el&eacute;tricas</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15-e8w66IDW6GQ7uLKFE-W6ClPJs2jThm/view?usp=sharing">Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
 </tr>
 </tbody>
 </table>
+
+
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
-<td colspan="2" style="text-align: center;">1&ordf; Aula Pr&aacute;tica: Lei de Ohm</td>
+<td colspan="2" style="text-align: center;"><2ª Aula prática:  Diagramas Multifilares/td>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
@@ -160,3 +162,21 @@ Lousa branca, filmes, painel didáticos para montagens, box didático, apostila,
 </tbody>
 </table>
 <p>
+
+
+
+3ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos, intermediários, tomadas e campainhas.	
+4ª Aula prática:  Identificação de Ferramentas
+5ª Aula prática:  Tipos de Emendas, fios e cabos
+6ª Aula prática:  Diagramas Unifilares
+7ª Aula prática:  Instalações Embutidas
+8ª Aula prática:  Instalação Embutida	
+9ª Aula prática:  Instalação de Minuteria e Sensor de Presença	
+10ª Aula prática: Ventilador de Teto	
+11ª Aula prática: Instalação de Relé de Impulso
+12ª Aula prática: Instalação de Relé Fotoelétrico	
+13ª Aula prática: Instalação de Circuitos de Comunicação
+14ª Aula prática: Instalação de Circuitos de Interfone	
+15ª Aula prática: Programador Horário
+16ª Aula prática: CFTV	
+17ª Aula práticva: PABX IP
