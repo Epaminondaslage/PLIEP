@@ -1,100 +1,99 @@
-# Curso Técnico em Eletrotécnica
-
 **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
-**DIRETORIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA CEFET-MG**
+**DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
+**COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
 
 ---
+## Disciplina: PLIP - Prática de Laboratório de Instalações Prediais
 
-## Disciplina: Laboratório de Instalações Elétricas Prediais (LIEP)
-
-| **Série**          | **Carga Horária Semanal** | **Carga Horária Total** |
-|---------------------|---------------------------|-------------------------|
-| 1ª                 | 02 horas-aula             | 72 horas-aula           |
-
----
-
-## A. Objetivos
-
-Ao final da 1ª série, o aluno deverá ser capaz de:  
-a. Identificar materiais e ferramentas usados em instalações elétricas prediais.  
-b. Interpretar e elaborar diagramas elétricos de instalações elétricas prediais.  
-c. Interpretar planta baixa e escalas - noções de leitura e traçado.  
-d. Entender os tipos de fornecimento de energia elétrica em baixa tensão.  
-e. Interpretar simbologia de instalações elétricas prediais.  
-f. Executar manutenção de instalações elétricas prediais.  
-g. Executar projeto de instalações elétricas prediais de baixa tensão.
+| **Responsável**         | **Professor**          |
+|-------------------------|-----------------------|
+| Prof. Epaminondas Lage  | [Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
 
 ---
+### [Ementa da discliplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
+### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/seguranca.md)
 
-## B. Conteúdo Programático
+## Onde encontrar o material didático complementar para download?
 
-**CEFET-MG**  
-Campus Nova Gameleira - Av. Amazonas, 7675 - CEP 30510-000 - Nova Gameleira - Belo Horizonte - MG  
 
-### 1. UNIDADE 1 - Fundamentos de Instalações Elétricas Prediais
-1.1 **Introdução**: segurança no laboratório; configurações do sistema elétrico - baixa tensão; tipos de fornecimento em baixa tensão.  
-1.2 **Ferramentas**: identificação de ferramentas; manuseio de ferramentas.  
-1.3 **Esquemas de aterramento**: nomenclatura dos sistemas de aterramento; sistema de aterramento TN.  
-1.4 **Dispositivos de proteção**: disjuntor termomagnético; interruptor diferencial residual; dispositivo de proteção contra surto.  
-1.5 **Quadro de distribuição**: quadro de distribuição de circuitos monofásico; quadro de distribuição de circuitos bifásico; quadro de distribuição de circuitos trifásico.  
-1.6 **Simbologia**
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
+<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila." aqui</a> para baixar a apostila.</td>
+</tr>
+</tbody>
+</table>
 
-### 2. UNIDADE 2 - Materiais de Infraestrutura e Aplicações
-2.1 Fio rígido e cabo  
-2.2 Cores das capas isolantes dos condutores  
-2.3 Caixas de embutir e caixas aparentes  
-2.4 Eletrodutos  
-2.5 Conectores  
-2.6 Tomadas  
-2.7 Interruptores  
-2.8 Lâmpadas e luminárias  
-2.9 Relé fotoelétrico  
-2.10 Sensor de presença  
-2.11 Relé de impulso  
-2.12 Tomada inteligente e módulos inteligentes para acionamentos de lâmpadas  
-2.13 Programador horário  
-2.14 Rede local com telefone IP e cabeamento de rede  
-2.15 CFTV  
-2.16 Ventilador
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
+<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Welligton Passos de Almeida. Clique <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing">aqui</a> para baixar a apostila.</td>
+</tr>
+</tbody>
+</table>
 
----
+# Conteúdo das Aulas Práticas
 
-## C. Metodologia de Ensino
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>1ª Aula Prática - Laboratorio de Instalações Elétricas Prediais </p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
+</tr>
+</tbody>
+</table>
 
-Aulas práticas realizando montagens em box e painéis didáticos.
+<table style="height: 164px;" width="378" border="1">
+<tbody><tr>
+<td colspan="2" style="text-align: center;">2ª Aula prática:  Diagramas Multifilares</td>
+</tr><tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr><tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
+</tr></tbody></table><p>
 
----
+<table style="height: 164px;" width="378" border="1">
+<tbody><tr>
+<td colspan="2" style="text-align: center;">3ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos, intermediários, tomadas e campainhas.	</td>
+</tr><tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr><tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
+</tr></tbody></table><p>
 
-## D. Bibliografia
 
-### Bibliografia Básica
-1. NISKIER, J. e MACINTYRE, A. J. *Instalações Elétricas*. 7ª ed. Rio de Janeiro: LTC, 2021. 443p.  
-2. CAVALIN, Geraldo e CERVELIN, Severino. *Instalações Elétricas Prediais*. 23ª ed. São Paulo: Érica, 2017. 424p.  
-3. CREDER, Hélio. *Instalações Elétricas*. 17ª ed. Rio de Janeiro: LTC, 2022.
+- 4ª Aula prática:  Identificação de Ferramentas
+- 5ª Aula prática:  Tipos de Emendas, fios e cabos
+- 6ª Aula prática:  Diagramas Unifilares
+- 7ª Aula prática:  Instalações Embutidas
+- 8ª Aula prática:  Instalação Embutida	
+- 9ª Aula prática:  Instalação de Minuteria e Sensor de Presença
+- 10ª Aula prática: Ventilador de Teto	
+- 11ª Aula prática: Instalação de Relé de Impulso
+- 12ª Aula prática: Instalação de Relé Fotoelétrico
+- 13ª Aula prática: Instalação de Circuitos de Comunicação
+- 14ª Aula prática: Instalação de Circuitos de Interfone
+- 15ª Aula prática: Programador Horário
+- 16ª Aula prática: CFTV	
+- 17ª Aula prátiva: PABX IP
 
-### Bibliografia Complementar
-1. ALMEIDA, W. P. *Guia de Aula - Laboratório de Instalações Elétricas Prediais*. CEFET-MG, 2022.  
-2. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - ABNT. *NBR 5410 - Instalações elétricas em baixa tensão*. 2008.  
-3. CEMIG. *ND -5.1 - Fornecimento de Energia Elétrica em Tensão Secundária - Edificações Individuais*. Belo Horizonte, 2022.  
-4. CEMIG. *ND -5.2 - Fornecimento de Energia Elétrica em Tensão Secundária - Edificações Coletivas*. Belo Horizonte, 2022.
+## Agradecimentos
 
----
+### Prof. Colimar Marques Vieira
+- **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
+- **Currículo Lattes**: [VIEIRA, C. M.](http://lattes.cnpq.br/4432862799465667)
 
-## Elaborado por
-- Adriana Trindade de Souza  
-- Anderson Vagner Rocha  
-- Eduardo Gonzaga da Silveira  
-- Euler Cunha Martins  
-- Henrique dos Reis Paula  
-- João Batista Marques Pereira  
-- José Francisco Campos Moreira  
-- Maria Luisa Perdigão Diz Ramos  
-- Welington Passos de Almeida  
-
-**Data**: [A ser preenchida]  
-**De Acordo**: Coordenação de Curso / Coordenação Pedagógica  
-
-**CEFET-MG**  
-Campus Nova Gameleira - Av. Amazonas, 7675 - CEP 30510-000 - Nova Gameleira - Belo Horizonte - MG  
-
----
+### Prof. Welington Passos de Almeida
+- **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
+- **Currículo Lattes**: [ALMEIDA, W. P.](http://lattes.cnpq.br/8651107332611509)
