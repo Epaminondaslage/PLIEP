@@ -22,31 +22,29 @@
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
 <p>1ª Aula Prática - Laboratorio de Instalações Elétricas Prediais </p>
-</td>
-</tr>
-<tr>
-<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+</td></tr><tr><td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
 <td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1IA8rQCfe06AbBNUFEZOSo7OHFmG7j9U7/view?usp=drive_link">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
 </tr>
 </tbody>
 </table>
 
-- 2ª Aula prática:  Diagramas Multifilares
-- 3ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos, intermediários, tomadas e campainhas.	
-- 4ª Aula prática:  Identificação de Ferramentas
-- 5ª Aula prática:  Tipos de Emendas, fios e cabos
-- 6ª Aula prática:  Diagramas Unifilares
-- 7ª Aula prática:  Instalações Embutidas
-- 8ª Aula prática:  Instalação Embutida	
-- 9ª Aula prática:  Instalação de Minuteria e Sensor de Presença
-- 10ª Aula prática: Ventilador de Teto	
-- 11ª Aula prática: Instalação de Relé de Impulso
-- 12ª Aula prática: Instalação de Relé Fotoelétrico
-- 13ª Aula prática: Instalação de Circuitos de Comunicação
-- 14ª Aula prática: Instalação de Circuitos de Interfone
-- 15ª Aula prática: Programador Horário
-- 16ª Aula prática: CFTV	
-- 17ª Aula prátiva: PABX IP
+- 2ª Aula prática:  Identificação de Ferramentas
+- 3ª Aula prática:  Diagramas Unifilares e Multifilares
+- 4ª Aula prática:  Tipos de Emendas, fios e cabos
+- 5ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos,intermediários, tomadas e campainhas  
+- 6ª Aula prática:  Instalações Embutidas	circuitos de iluminação
+- 7ª Aula prática:  Dispositivos de proteção: Disjuntor termomagnético, IDR e DPS
+- 8ª Aula prática:  Instalação de Minuteria e Sensor de Presença
+- 9ª Aula prática:  Ventilador de Teto	
+- 10ª Aula prática: Instalação de Relé de Impulso
+- 11ª Aula prática: Instalação de Relé Fotoelétrico e Programador Horário
+- 12ª Aula prática: Instalação de Circuitos de Interfone e videoporteiro 
+- 13ª Aula prática: Tomada inteligente e módulos inteligentes para acionamentos de lâmpadas e assitentes de voz
+- 14ª Aula prática: Sistemas de Automação Residencial - HomeAssitant
+- 15ª Aula prática: Sistemas de Automação Residencial - Automações
+- 16ª Aula prática: Sistemas de CFTV – DVR e NVR	
+- 17ª Aula prática: Circuitos de Telefonia IP - PABX IP
+
 
 ### Onde encontrar o material didático complementar para download?
 
