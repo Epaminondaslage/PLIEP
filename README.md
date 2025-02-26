@@ -3,6 +3,7 @@
 **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
 **DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
 **COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
+
 ---
 ## Disciplina: PLIP - Prática de Laboratório de Instalações Prediais
 
@@ -11,14 +12,21 @@
 | Prof. Epaminondas Lage  | [Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
 
 ---
+### [Ementa da discliplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
+### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/seguranca.md)
 
-# Onde encontrar o material didático para download?
+## Onde encontrar o material didático complementar para download?
+
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
-<td style="width: 32.1053%;"><img width="140" alt="image" src="img/Apostila Instalações Elétricas - 2016(V3).pdf 2024-03-11 18-11-27.jpg"></td>
-<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila.</td>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
+<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila." aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
 </table>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -34,12 +42,12 @@
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>Aula Introdutória - Laboratorio de Instalações Elétricas Prediais </p>
+<p>1ª Aula Prática - Laboratorio de Instalações Elétricas Prediais </p>
 </td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
 </tr>
 </tbody>
 </table>
@@ -72,12 +80,12 @@
 - 6ª Aula prática:  Diagramas Unifilares
 - 7ª Aula prática:  Instalações Embutidas
 - 8ª Aula prática:  Instalação Embutida	
-- 9ª Aula prática:  Instalação de Minuteria e Sensor de Presença	
+- 9ª Aula prática:  Instalação de Minuteria e Sensor de Presença
 - 10ª Aula prática: Ventilador de Teto	
 - 11ª Aula prática: Instalação de Relé de Impulso
-- 12ª Aula prática: Instalação de Relé Fotoelétrico	
+- 12ª Aula prática: Instalação de Relé Fotoelétrico
 - 13ª Aula prática: Instalação de Circuitos de Comunicação
-- 14ª Aula prática: Instalação de Circuitos de Interfone	
+- 14ª Aula prática: Instalação de Circuitos de Interfone
 - 15ª Aula prática: Programador Horário
 - 16ª Aula prática: CFTV	
 - 17ª Aula prátiva: PABX IP
@@ -91,9 +99,4 @@
 ### Prof. Welington Passos de Almeida
 - **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
 - **Currículo Lattes**: [ALMEIDA, W. P.](http://lattes.cnpq.br/8651107332611509)
-
----
-
-**CEFET-MG**  
-Campus Nova Gameleira - Av. Amazonas, 7675 - CEP 30510-000 - Nova Gameleira - Belo Horizonte - MG  
 
