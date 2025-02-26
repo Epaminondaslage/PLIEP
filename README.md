@@ -15,28 +15,7 @@
 ### [Ementa da discliplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
 ### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/seguranca.md)
 
-## Onde encontrar o material didático complementar para download?
-
-
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
-<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila." aqui</a> para baixar a apostila.</td>
-</tr>
-</tbody>
-</table>
-
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
-<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Welligton Passos de Almeida. Clique <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing">aqui</a> para baixar a apostila.</td>
-</tr>
-</tbody>
-</table>
-
-# Conteúdo das Aulas Práticas
+### Conteúdo das Aulas Práticas
 
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
@@ -90,13 +69,33 @@
 - 16ª Aula prática: CFTV	
 - 17ª Aula prátiva: PABX IP
 
-## Agradecimentos
+### Onde encontrar o material didático complementar para download?
 
-### Prof. Colimar Marques Vieira
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
+<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila." aqui</a> para baixar a apostila.</td>
+</tr>
+</tbody>
+</table>
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
+<td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Welligton Passos de Almeida. Clique <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing">aqui</a> para baixar a apostila.</td>
+</tr>
+</tbody>
+</table>
+
+### Agradecimentos
+
+* Prof. Colimar Marques Vieira
 - **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
 - **Currículo Lattes**: [VIEIRA, C. M.](http://lattes.cnpq.br/4432862799465667)
 
-### Prof. Welington Passos de Almeida
+* Prof. Welington Passos de Almeida
 - **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
 - **Currículo Lattes**: [ALMEIDA, W. P.](http://lattes.cnpq.br/8651107332611509)
 
