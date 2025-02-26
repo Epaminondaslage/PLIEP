@@ -17,14 +17,7 @@
 
 ### Programaçao das Aulas Práticas
 
-<table style="height: 164px;" width="378" border="1"><tbody><tr><td colspan="2" style="text-align: center;">2ª Aula prática:  Diagramas Multifilares</td>
-</tr><tr><td><img src="img/doc.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td><td style="text-align: center; width: 266px;">  <a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td></tr><tr><td><img src="img/pdf.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td><td style="text-align: center;">   <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td></tr></tbody></table><p>
-
-
-<table style="height: 164px; width: 485px;" border="1"><tbody><tr><td style="text-align: center; width: 469px;" colspan="2">
-<p>1ª Aula Prática</p></td></tr><tr><td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-
-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1IA8rQCfe06AbBNUFEZOSo7OHFmG7j9U7/view?usp=drive_link">Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td></tr></tbody></table>
+<table style="height: 164px;" width="378" border="1"><tbody><tr><td colspan="2" style="text-align: center;">1ª Aula prática:  Normas de uso do Laboratório de Instalações Prediais</td></tr><tr><td><img src="img/doc.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td><td style="text-align: center; width: 266px;">  <a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td></tr><tr><td><img src="img/pdf.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td><td style="text-align: center;">   <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td></tr></tbody></table><p>
 
 - 2ª Aula prática:  Identificação de Ferramentas
 - 3ª Aula prática:  Diagramas Unifilares e Multifilares
