@@ -13,7 +13,7 @@
 
 ---
 ### [Ementa da discliplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
-### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/seguranca.md)
+### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ### Conteúdo das Aulas Práticas
 
