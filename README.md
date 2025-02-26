@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1IA8rQCfe06AbBNUFEZOSo7OHFmG7j9U7/view?usp=drive_link">1ª Aula prática:  Normas de uso do laboratório. Simbologia das Instalações elétricas prediais	</a></td>
 </tr>
 </tbody>
 </table>
