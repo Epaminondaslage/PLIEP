@@ -3,7 +3,7 @@
 **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
 **DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
 **COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
-
+**Ano Letivo: 2025**
 ---
 ## Disciplina: PLIP - Prática de Laboratório de Instalações Prediais
 
@@ -31,29 +31,8 @@
 </tbody>
 </table>
 
-<table style="height: 164px;" width="378" border="1">
-<tbody><tr>
-<td colspan="2" style="text-align: center;">2ª Aula prática:  Diagramas Multifilares</td>
-</tr><tr>
-<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
-</tr><tr>
-<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
-</tr></tbody></table><p>
-
-<table style="height: 164px;" width="378" border="1">
-<tbody><tr>
-<td colspan="2" style="text-align: center;">3ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos, intermediários, tomadas e campainhas.	</td>
-</tr><tr>
-<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
-</tr><tr>
-<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
-</tr></tbody></table><p>
-
-
+- 2ª Aula prática:  Diagramas Multifilares
+- 3ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos, intermediários, tomadas e campainhas.	
 - 4ª Aula prática:  Identificação de Ferramentas
 - 5ª Aula prática:  Tipos de Emendas, fios e cabos
 - 6ª Aula prática:  Diagramas Unifilares
