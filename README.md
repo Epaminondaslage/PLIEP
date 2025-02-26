@@ -1,4 +1,5 @@
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
+
 **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
 **DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
 **COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
