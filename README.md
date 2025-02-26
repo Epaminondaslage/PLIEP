@@ -19,6 +19,38 @@
 
 <table style="height: 164px;" width="378" border="1"><tbody><tr><td colspan="2" style="text-align: center;">1ª Aula prática:  Normas de uso do Laboratório de Instalações Prediais</td></tr><tr><td><img src="img/doc.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td><td style="text-align: center; width: 266px;">  <a href="[https://drive.google.com/file/d/1IA8rQCfe06AbBNUFEZOSo7OHFmG7j9U7/view?usp=drive_link](https://docs.google.com/document/d/18jtwCXowZhq73f_uxS2XLY221saHPg9U/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true)">Guia de Aula</a></td></tr><tr><td><img src="img/pdf.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td><td style="text-align: center;">   <a href="https://drive.google.com/file/d/1IA8rQCfe06AbBNUFEZOSo7OHFmG7j9U7/view?usp=drive_link">Slides da Aula</a></td></tr></tbody></table><p>
 
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+        1ª Aula prática: Normas de uso do Laboratório de Instalações Prediais
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="https://docs.google.com/document/d/18jtwCXowZhq73f_uxS2XLY221saHPg9U/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="https://drive.google.com/file/d/1IA8rQCfe06AbBNUFEZOSo7OHFmG7j9U7/view?usp=drive_link">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 - 2ª Aula prática:  Identificação de Ferramentas
 - 3ª Aula prática:  Diagramas Unifilares e Multifilares
 - 4ª Aula prática:  Tipos de Emendas, fios e cabos
