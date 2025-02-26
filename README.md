@@ -1,3 +1,40 @@
+![Logo CEFET-MG](https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png)
+# Curso Técnico em Eletrotécnica
+
+**CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+**DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
+**COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
+
+---
+
+## Disciplina: PLIP - Prática de Laboratório de Instalações Prediais
+
+| **Responsável**         | **Professor**          |
+|-------------------------|-----------------------|
+| Prof. Epaminondas Lage  | [Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
+
+
+---
+
+## Agradecimentos
+
+### Prof. Colimar Marques Vieira
+- **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
+- **Currículo Lattes**: [VIEIRA, C. M.](http://lattes.cnpq.br/4432862799465667)
+
+### Prof. Welington Passos de Almeida
+- **Contribuição**: Elaboração e disponibilização do *Guia de Aulas Práticas da Disciplina Prática de Laboratório de Instalações Prediais*.  
+- **Currículo Lattes**: [ALMEIDA, W. P.](http://lattes.cnpq.br/8651107332611509)
+
+---
+
+**CEFET-MG**  
+Campus Nova Gameleira - Av. Amazonas, 7675 - CEP 30510-000 - Nova Gameleira - Belo Horizonte - MG  
+
+---
+
+
+================
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
 <p><strong><span style="color: #0000ff;">Departamento de Engenharia Elétrica - CEFETMG</span></strong></p>
 <p><strong><span style="color: #0000ff;">Coordenação do Curso de Eletrotécnica</span></strong></p>
