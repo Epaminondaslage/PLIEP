@@ -1,19 +1,13 @@
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
-# Curso Técnico em Eletrotécnica
-
 **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
 **DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
 **COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
-
 ---
-
-
 ## Disciplina: PLIP - Prática de Laboratório de Instalações Prediais
 
 | **Responsável**         | **Professor**          |
 |-------------------------|-----------------------|
 | Prof. Epaminondas Lage  | [Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
-
 
 ---
 
