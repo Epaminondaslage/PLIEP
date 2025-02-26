@@ -53,7 +53,7 @@
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 32.1053%;"><img width="140" alt="image" src="img/GUIA DE AULA DE LIEP.png"></td>
+<td style="width: 32.1053%;"><img width="140" alt="image" src="img/.jpg"></td>
 <td style="width: 67.8947%;">O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. Colimar Marques Vieira. Clique <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing">aqui</a> para baixar a apostila." aqui</a> para baixar a apostila.</td>
 </tr>
 </tbody>
