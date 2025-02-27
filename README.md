@@ -12,7 +12,7 @@
 | Prof. Epaminondas Lage  | [Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
 
 ---
-### [Ementa da discliplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
+### [Ementa da discliplina 2025](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
 ### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ### Programaçao das Aulas Práticas
