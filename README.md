@@ -434,7 +434,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        15ª Aula prática:   🚧
+        15ª Aula prática: Sistemas de Automação Residencial - Automaçoes 🚧
       </td>
     </tr>
     <tr>
@@ -462,7 +462,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        16ª Aula prática:   🚧
+        16ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧
       </td>
     </tr>
     <tr>
