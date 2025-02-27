@@ -512,10 +512,6 @@
         <a href="https://drive.google.com/file/d/1FCm9RUDHvkURaMrPQdHt3zaOLfjd56Yy/view?usp=drive_link">
           Slides da Aula
         </a>
-        <td style="text-align: center;">
-        <a href="https://github.com/Epaminondaslage/PLIEP-PBXIP/tree/main">
-          Repositorio do PABXIP
-        </a>
       </td>
     </tr>
   </tbody>
