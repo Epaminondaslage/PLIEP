@@ -498,7 +498,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://docs.google.com/presentation/d/1oTVYNDHb2cGsYo2r0HYwMwGN2wLwrwmY/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true">
+        <a href="https://drive.google.com/file/d/1FCm9RUDHvkURaMrPQdHt3zaOLfjd56Yy/view?usp=drive_link">
           Guia de Aula
         </a>
       </td>
@@ -510,6 +510,10 @@
       <td style="text-align: center;">
         <a href="https://drive.google.com/file/d/1FCm9RUDHvkURaMrPQdHt3zaOLfjd56Yy/view?usp=drive_link">
           Slides da Aula
+        </a>
+        <td style="text-align: center;">
+        <a href="https://github.com/Epaminondaslage/PLIEP-PBXIP/tree/main">
+          Repositorio do PABXIP
         </a>
       </td>
     </tr>
