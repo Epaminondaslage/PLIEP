@@ -399,6 +399,7 @@
     </tr>
   </tbody>
 </table>
+
 <table style="height: 164px;" width="378" border="1">
   <tbody>
     <tr>
@@ -428,60 +429,7 @@
     </tr>
   </tbody>
 </table>
-<table style="height: 164px;" width="378" border="1">
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center;">
-        15ª Aula prática: Sistemas de Automação Residencial - Automações  🚧
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
-      </td>
-      <td style="text-align: center; width: 266px;">
-        <a href="">
-          Guia de Aula
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-      </td>
-      <td style="text-align: center;">
-  </tbody>
-</table>
-<table style="height: 164px;" width="378" border="1">
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center;">
-        16ª Aula prática: Sistemas de CFTV – DVR e NVR	  🚧
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
-      </td>
-      <td style="text-align: center; width: 266px;">
-        <a href="">
-          Guia de Aula
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-      </td>
-      
-      <td style="text-align: center;">
-        <a href="">
-          Slides da Aula
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 <table style="height: 164px;" width="378" border="1">
   <tbody>
     <tr>
