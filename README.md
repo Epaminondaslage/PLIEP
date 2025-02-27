@@ -17,6 +17,8 @@
 
 ### Programaçao das Aulas Práticas
 
+**Praticas com o icone  🚧  no titulo estão sendo remodeladas e ajustadas para a nova ementa 2025**
+
 <table style="height: 164px;" width="378" border="1">
   <tbody>
     <tr>
@@ -110,7 +112,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      4ª Aula prática:  Tipos de Emendas, fios e cabos
+      4ª Aula prática:  Tipos de Emendas, fios e cabos   🚧
       </td>
     </tr>
     <tr>
@@ -139,7 +141,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      5ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos,intermediários, tomadas e campainhas  
+      5ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos,intermediários, tomadas e campainhas  🚧 
       </td>
     </tr>
     <tr>
@@ -169,7 +171,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      6ª Aula prática:  Instalações Embutidas	circuitos de iluminação
+      6ª Aula prática:  Instalações Embutidas	circuitos de iluminação  🚧
       </td>
     </tr>
     <tr>
@@ -198,7 +200,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      7ª Aula prática:  Dispositivos de proteção: Disjuntor termomagnético, IDR e DPS
+      7ª Aula prática:  Dispositivos de proteção: Disjuntor termomagnético, IDR e DPS  🚧
       </td>
     </tr>
     <tr>
@@ -227,7 +229,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      8ª Aula prática:  Instalação de Minuteria e Sensor de Presença
+      8ª Aula prática:  Instalação de Minuteria e Sensor de Presença  🚧
       </td>
     </tr>
     <tr>
@@ -256,7 +258,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      9ª Aula prática:  Ventilador de Teto	
+      9ª Aula prática:  Ventilador de Teto	 🚧
       </td>
     </tr>
     <tr>
@@ -285,7 +287,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      10ª Aula prática: Instalação de Relé de Impulso
+      10ª Aula prática: Instalação de Relé de Impulso  🚧
       </td>
     </tr>
     <tr>
@@ -314,7 +316,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      11ª Aula prática: Instalação de Relé Fotoelétrico e Programador Horário
+      11ª Aula prática: Instalação de Relé Fotoelétrico e Programador Horário  🚧
       </td>
     </tr>
     <tr>
@@ -343,7 +345,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      12ª Aula prática: Instalação de Circuitos de Interfone e videoporteiro 
+      12ª Aula prática: Instalação de Circuitos de Interfone e videoporteiro  🚧
       </td>
     </tr>
     <tr>
@@ -372,7 +374,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      13ª Aula prática: Tomada inteligente e módulos inteligentes para acionamentos de lâmpadas e assitentes de voz
+      13ª Aula prática: Tomada inteligente e módulos inteligentes para acionamentos de lâmpadas e assitentes de voz  🚧
       </td>
     </tr>
     <tr>
@@ -401,7 +403,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        14ª Aula prática: Sistemas de Automação Residencial - HomeAssitant
+        14ª Aula prática: Sistemas de Automação Residencial - HomeAssitant  🚧
       </td>
     </tr>
     <tr>
@@ -430,7 +432,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        15ª Aula prática: Sistemas de Automação Residencial - Automações
+        15ª Aula prática: Sistemas de Automação Residencial - Automações  🚧
       </td>
     </tr>
     <tr>
@@ -459,7 +461,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        16ª Aula prática: Sistemas de CFTV – DVR e NVR	
+        16ª Aula prática: Sistemas de CFTV – DVR e NVR	  🚧
       </td>
     </tr>
     <tr>
@@ -488,7 +490,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-         17ª Aula prática: Circuitos de Telefonia IP - PABX IP
+      17ª Aula prática: Circuitos de Telefonia IP - PABX IP
       </td>
     </tr>
     <tr>
