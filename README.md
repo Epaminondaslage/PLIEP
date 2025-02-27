@@ -450,11 +450,6 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
-          Slides da Aula
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
 <table style="height: 164px;" width="378" border="1">
