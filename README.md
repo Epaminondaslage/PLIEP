@@ -17,7 +17,7 @@
 
 ### Programaçao das Aulas Práticas
 
-**Praticas com o icone  🚧  no titulo estão sendo remodeladas e ajustadas para a nova ementa 2025**
+**Práticas com o icone  🚧  no titulo estão sendo remodeladas e ajustadas para a nova ementa 2025**
 
 <table style="height: 164px;" width="378" border="1">
   <tbody>
