@@ -478,6 +478,7 @@
       <td>
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
+      
       <td style="text-align: center;">
         <a href="">
           Slides da Aula
@@ -498,7 +499,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1FCm9RUDHvkURaMrPQdHt3zaOLfjd56Yy/view?usp=drive_link">
+        <a href="https://docs.google.com/document/d/1IrI5P-pCPkcHWgtgYQ_Nvat6do1Ntpfs/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true">
           Guia de Aula
         </a>
       </td>
