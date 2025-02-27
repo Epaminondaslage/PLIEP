@@ -59,7 +59,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://">
+        <a href="">
           Guia de Aula
         </a>
       </td>
