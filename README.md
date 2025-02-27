@@ -51,7 +51,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      2ª Aula prática:  Identificação de Ferramentas
+      2ª Aula prática:  Identificação de Ferramentas  🚧
       </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      3ª Aula prática:  Diagramas Unifilares e Multifilares
+      3ª Aula prática:  Diagramas Unifilares e Multifilares 🚧
       </td>
     </tr>
     <tr>
