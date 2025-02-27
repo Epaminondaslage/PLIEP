@@ -141,8 +141,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      5ª Aula prática:  Instalações de interruptores simples, pulsadores,
-                        paralelos,intermediários, tomadas e campainhas  🚧 
+      5ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos,intermediários, tomadas e campainhas  🚧 
       </td>
     </tr>
     <tr>
@@ -499,7 +498,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://docs.google.com/presentation/d/1oTVYNDHb2cGsYo2r0HYwMwGN2wLwrwmY/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true">
           Guia de Aula
         </a>
       </td>
@@ -509,7 +508,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1FCm9RUDHvkURaMrPQdHt3zaOLfjd56Yy/view?usp=drive_link">
           Slides da Aula
         </a>
       </td>
