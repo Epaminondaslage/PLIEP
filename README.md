@@ -71,7 +71,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="https://drive.google.com/file/d/10Xd8vZuWejl8oFWQeqCBydgPF0tjz58o/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1oVmN9-d93VRUccxVCaT7lhrHWWiUlfHA/view?usp=drive_link">
           Slides da Aula
         </a>
       </td>
