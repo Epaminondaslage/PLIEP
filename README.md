@@ -53,7 +53,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      2ª Aula prática:  Identificação de Ferramentas  🚧
+      2ª Aula prática:  Identificação de Ferramentas  
       </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1fEh8HIsPKMS4t3gknH4_JWz6n1_YqLjp/view?usp=drive_link">
           Guia de Aula
         </a>
       </td>
@@ -71,7 +71,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/10Xd8vZuWejl8oFWQeqCBydgPF0tjz58o/view?usp=drive_link">
           Slides da Aula
         </a>
       </td>
