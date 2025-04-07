@@ -83,7 +83,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      3ª Aula prática:  Diagramas Unifilares e Multifilares 🚧
+      3ª Aula prática:  Diagramas  Multifilares 
       </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1xLwEmzd1xpoX6WbOSs7eg8K0fzk28N7O/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -101,7 +101,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/16Tbz_B1WQ-6_l3KELl9_gUoqi4ULAZ0f/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
