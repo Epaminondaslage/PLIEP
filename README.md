@@ -112,7 +112,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      4ª Aula prática:  Tipos de Emendas, fios e cabos   🚧
+      4ª Aula prática:  Tipos de Emendas em cabos e conectores
       </td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1hsTBs3O7fJyrYOOdbV0ejKk5i1b_1IuR/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -130,7 +130,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1AYDu8giqXhqFTiLyGckr0wTG-RKZ8YtC/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
