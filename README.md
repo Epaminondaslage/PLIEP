@@ -141,7 +141,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      5ª Aula prática:  Instalações de interruptores simples, pulsadores, paralelos,intermediários, tomadas e campainhas  🚧 
+      5ª Aula prática:  Simbologia e Equipamentos das Instalações Elétricas Prediais
       </td>
     </tr>
     <tr>
