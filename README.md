@@ -492,7 +492,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      17ª Aula prática: Instalação Programador de Horário
+      17ª Aula prática: Instalação Programador de Horário 🚧
       </td>
     </tr>
     <tr>
@@ -522,7 +522,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      18ª Aula prática: Sistemas de CFTV – DVR e NVR
+      18ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧
       </td>
     </tr>
     <tr>
@@ -551,37 +551,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      19ª Aula prática: Sistemas de Comunicação- Interfone
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
-      </td>
-      <td style="text-align: center; width: 266px;">
-        <a href="">
-          Guia de Aula
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-      </td>
-      <td style="text-align: center;">
-        <a href="">
-          Slides da Aula
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table style="height: 164px;" width="378" border="1">
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center;">
-      20ª Aula prática: Cabeamento Estrururado de Redes
+      19ª Aula prática: Sistemas de Comunicação- Interfone 🚧
       </td>
     </tr>
     <tr>
@@ -611,7 +581,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      21ª Aula prática: Circuitos de Telefonia IP - PABX IP
+      20ª Aula prática: Cabeamento Estrururado de Redes 🚧
       </td>
     </tr>
     <tr>
@@ -641,7 +611,37 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      22ª Aula prática: Dispositivos  Inteligentes de Acionamento WIFI
+      21ª Aula prática: Circuitos de Telefonia IP - PABX IP 🚧
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      22ª Aula prática: Dispositivos  Inteligentes de Acionamento WIFI 🚧
       </td>  
     </tr>
     <tr>
@@ -672,7 +672,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      23ª Aula prática: Dispositivos  Inteligentes de Acionamento Zigbee 
+      23ª Aula prática: Dispositivos  Inteligentes de Acionamento Zigbee 🚧
       </td>
     </tr>
     <tr>
@@ -703,7 +703,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      24ª Aula prática: Relés IP Multiprotocolos
+      24ª Aula prática: Relés IP Multiprotocolos 🚧
       </td>
     </tr>
     <tr>
@@ -733,7 +733,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      25ª Aula prática: Sistemas de Automação Residencial - HomeAssitant
+      25ª Aula prática: Sistemas de Automação Residencial - HomeAssitant 🚧
       </td>
     </tr>
     <tr>
@@ -763,7 +763,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      26ª Aula prática: Sistemas de Automação Residencial - Automações
+      26ª Aula prática: Sistemas de Automação Residencial - Automações 🚧
       </td>
     </tr>
     <tr>
@@ -793,7 +793,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      27ª Aula prática: Projetos Elétricos
+      27ª Aula prática: Projetos Elétricos 🚧
       </td>
     </tr>
     <tr>
@@ -818,6 +818,7 @@
     </tr>
   </tbody>
 </table>
+
 ### Onde encontrar o material didático complementar para download?
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
