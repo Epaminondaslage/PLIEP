@@ -121,7 +121,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1R7CGPWodxyS-KFZ3OFLK5aZzJj96PCo-/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1XJiFTi_d_I0RlBZ8KfvgjCrX9_TZHGC6/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -131,7 +131,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="https://drive.google.com/file/d/15z09PWaGhGJZedv5-CUsEutsnf_hkRD0/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1QG7A887zajWFCSVag7zPc5DYaZTAhFGn/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
@@ -151,7 +151,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1ku3JyF5zWGeNXOEFVRrKdO2v0h-S6KU_/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1T7fIurRoWLU0fKQT3lD-UwGtNP0BUr-K/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -161,7 +161,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="https://drive.google.com/file/d/1X_jKnqvoEN0SJtTnsMT0GzkMg5mram35/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/17K9FLjtjCg0bmx9Cz49GDoYJ9hm852-Q/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
