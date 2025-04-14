@@ -79,40 +79,12 @@
   </tbody>
 </table>
 
+
 <table style="height: 164px;" width="378" border="1">
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      3ª Aula prática:  Diagramas  Multifilares 
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
-      </td>
-      <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1ku3JyF5zWGeNXOEFVRrKdO2v0h-S6KU_/view?usp=sharing">
-          Guia de Aula
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-      </td>
-      <td style="text-align: center;">
-        <a href="https://drive.google.com/file/d/1X_jKnqvoEN0SJtTnsMT0GzkMg5mram35/view?usp=sharing">
-          Slides da Aula
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table style="height: 164px;" width="378" border="1">
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center;">
-      4ª Aula prática:  Tipos de Emendas em cabos e conectores
+      3ª Aula prática:  Tipos de Emendas em cabos e conectores
       </td>
     </tr>
     <tr>
@@ -141,7 +113,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      5ª Aula prática:  Simbologia e Equipamentos das Instalações Elétricas Prediais
+      4ª Aula prática:  Simbologia e Equipamentos das Instalações Elétricas Prediais
       </td>
     </tr>
     <tr>
@@ -171,7 +143,36 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      6ª Aula prática:  Instalações Embutidas	circuitos de iluminação  🚧
+      5ª Aula prática:  Diagramas  Multifilares 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="https://drive.google.com/file/d/1ku3JyF5zWGeNXOEFVRrKdO2v0h-S6KU_/view?usp=sharing">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="https://drive.google.com/file/d/1X_jKnqvoEN0SJtTnsMT0GzkMg5mram35/view?usp=sharing">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      6ª Aula prática:  Diagramas Unifilares  🚧
       </td>
     </tr>
     <tr>
@@ -200,7 +201,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      7ª Aula prática:  Dispositivos de proteção: Disjuntor termomagnético, IDR e DPS  🚧
+      7ª Aula prática:  Instalações Embutidas  🚧
       </td>
     </tr>
     <tr>
@@ -229,7 +230,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      8ª Aula prática:  Instalação de Minuteria e Sensor de Presença  🚧
+      8ª Aula prática:  Instalações Embutidas  🚧
       </td>
     </tr>
     <tr>
@@ -258,7 +259,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      9ª Aula prática:  Ventilador de Teto	 🚧
+      9ª Aula prática:  Quadro Sinalizador de Chamadas	 🚧
       </td>
     </tr>
     <tr>
@@ -287,7 +288,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      10ª Aula prática: Instalação de Relé de Impulso  🚧
+      10ª Aula prática: Instalação de Dispositivos de Proteção - DR e DPS  🚧
       </td>
     </tr>
     <tr>
@@ -316,7 +317,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      11ª Aula prática: Instalação de Relé Fotoelétrico e Programador Horário  🚧
+      11ª Aula prática: Instalação de Minuteria e Sensor de Presença  🚧
       </td>
     </tr>
     <tr>
@@ -374,7 +375,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      13ª Aula prática: Tomada inteligente e módulos inteligentes para acionamentos de lâmpadas e assitentes de voz  🚧
+      13ª Aula prática: Instalação de Ventilador de Teto  🚧
       </td>
     </tr>
     <tr>
@@ -404,7 +405,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        14ª Aula prática: Sistemas de Automação Residencial - HomeAssitant  🚧
+        14ª Aula prática: Instalação Rele de Impulso  🚧
       </td>
     </tr>
     <tr>
@@ -434,7 +435,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        15ª Aula prática: Sistemas de Automação Residencial - Automaçoes 🚧
+        15ª Aula prática: Instalação Rele Fotoelétrico 🚧
       </td>
     </tr>
     <tr>
@@ -462,7 +463,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-        16ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧
+        16ª Aula prática: Instalação Chave-bóia 🚧
       </td>
     </tr>
     <tr>
@@ -491,7 +492,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      17ª Aula prática: Circuitos de Telefonia IP - PABX IP
+      17ª Aula prática: Instalação Programador de Horário
       </td>
     </tr>
     <tr>
@@ -499,7 +500,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1ukkXzhxYRoObvy72X7brVAJiWFxZhmLC/view?usp=drive_link">
+        <a href="">
           Guia de Aula
         </a>
       </td>
@@ -509,7 +510,156 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="https://drive.google.com/file/d/1FCm9RUDHvkURaMrPQdHt3zaOLfjd56Yy/view?usp=drive_link">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      18ª Aula prática: Sistemas de CFTV – DVR e NVR
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      19ª Aula prática: Sistemas de Comunicação- Interfone
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      20ª Aula prática: Cabeamento Estrururado de Redes
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      21ª Aula prática: Circuitos de Telefonia IP - PABX IP
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      22ª Aula prática: Dispositivos  Inteligentes de Acionamento WIFI
+      </td>  
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
           Slides da Aula
         </a>
       </td>
@@ -518,6 +668,156 @@
 </table>
 
 
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      23ª Aula prática: Dispositivos  Inteligentes de Acionamento Zigbee 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      24ª Aula prática: Relés IP Multiprotocolos
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      25ª Aula prática: Sistemas de Automação Residencial - HomeAssitant
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      26ª Aula prática: Sistemas de Automação Residencial - Automações
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="height: 164px;" width="378" border="1">
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+      27ª Aula prática: Projetos Elétricos
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
+      </td>
+      <td style="text-align: center; width: 266px;">
+        <a href="">
+          Guia de Aula
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
+      </td>
+      <td style="text-align: center;">
+        <a href="">
+          Slides da Aula
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ### Onde encontrar o material didático complementar para download?
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
