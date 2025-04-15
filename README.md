@@ -180,7 +180,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1QBt6bpVPTtZQmuS-WFi56g56VVLxSRu-/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1wpEcAC3m7oTqJp4ByyFisNT5eGkGVZqA/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
