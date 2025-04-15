@@ -619,7 +619,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="https://drive.google.com/file/d/1T52x-aCWgLQ1eqXRc4E5dU4WzpK3CugO/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1GgOUMhBzNwHICMluXs709TqBQ8-HF6aA/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -629,7 +629,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="https://drive.google.com/file/d/1-ejrA8KprCQf12VYT9bk1-6ZA33aNxH2/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
