@@ -172,7 +172,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      6ª Aula prática:  Diagramas Unifilares  🚧
+      6ª Aula prática:  Diagrama Unifilare  
       </td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1QBt6bpVPTtZQmuS-WFi56g56VVLxSRu-/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -190,7 +190,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/13YG2mckIwVWOZ6zhaeuXw7oagP_eVBrn/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
@@ -611,7 +611,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      21ª Aula prática: Circuitos de Telefonia IP - PABX IP 🚧
+      21ª Aula prática: Circuitos de Telefonia IP - PABX IP 
       </td>
     </tr>
     <tr>
@@ -619,7 +619,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1T52x-aCWgLQ1eqXRc4E5dU4WzpK3CugO/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -629,7 +629,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1-ejrA8KprCQf12VYT9bk1-6ZA33aNxH2/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
