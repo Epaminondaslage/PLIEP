@@ -143,7 +143,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      5ª Aula prática:  Diagramas  Multifilares 
+      5ª Aula prática:  Diagrama  Multifilar 
       </td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      6ª Aula prática:  Diagrama Unifilare  
+      6ª Aula prática:  Diagrama Unifilar  
       </td>
     </tr>
     <tr>
