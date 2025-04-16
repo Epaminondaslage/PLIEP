@@ -29,9 +29,6 @@
 
 ## 📘 Programação das Aulas Práticas – PLIP
 
-> ⚠️ **Atenção:** Aulas com o ícone 🚧 estão sendo reformuladas para a nova ementa 2025.
-
-
 <table>
   <tr><td colspan="2" align="center"><strong>1ª Aula prática: Normas de uso do Laboratório de Instalações Prediais</strong></td></tr>
   <tr>
