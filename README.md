@@ -346,7 +346,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      12ª Aula prática: Instalação de Circuitos de Interfone e videoporteiro  🚧
+      12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas  🚧
       </td>
     </tr>
     <tr>
@@ -551,7 +551,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      19ª Aula prática: Sistemas de Comunicação- Interfone 🚧
+      19ª Aula prática: Sistemas de Comunicação - Interfone 🚧
       </td>
     </tr>
     <tr>
@@ -581,7 +581,7 @@
   <tbody>
     <tr>
       <td colspan="2" style="text-align: center;">
-      20ª Aula prática: Cabeamento Estrururado de Redes 🚧
+      20ª Aula prática: Redes  de Computadores e Cabeamento Estruturado. 
       </td>
     </tr>
     <tr>
@@ -589,7 +589,7 @@
         <img src="img/doc.png" alt="Ícone Documento" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
       </td>
       <td style="text-align: center; width: 266px;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1NzsIF62M6m5E8GVjR6NKcUD4ptzd1OIR/view?usp=sharing">
           Guia de Aula
         </a>
       </td>
@@ -599,7 +599,7 @@
         <img src="img/pdf.png" alt="Ícone PDF" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
       </td>
       <td style="text-align: center;">
-        <a href="">
+        <a href="https://drive.google.com/file/d/1llCpq6oF1gC6lu-nBNZfBqK2O17OCh2Q/view?usp=sharing">
           Slides da Aula
         </a>
       </td>
