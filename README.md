@@ -826,6 +826,59 @@
     </tr>
   </tbody>
 </table>
+<section>
+  <h2>📂 Onde encontrar o material didático complementar para download?</h2>
+  <hr>
+
+  <!-- Colimar -->
+  <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: center;">
+    <img src="img/apostila colimar.jpg" alt="Apostila Prof. Colimar" width="140" style="border-radius: 8px;">
+    <div>
+      <h3>📘 Guia de Aulas Práticas – Prof. Colimar Marques Vieira</h3>
+      <p>O <strong>Guia de Aulas Práticas</strong> foi desenvolvido pelo Prof. <strong>Colimar Marques Vieira</strong>.</p>
+      <p>📎 <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing" target="_blank">Clique aqui para baixar a apostila</a></p>
+    </div>
+  </div>
+
+  <!-- Welligton -->
+  <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: center;">
+    <img src="img/GUIA DE AULA DE LIEP.png" alt="Guia de Aulas Prof. Welligton" width="140" style="border-radius: 8px;">
+    <div>
+      <h3>📗 Guia de Aulas Práticas – Prof. Welligton Passos de Almeida</h3>
+      <p>O <strong>Guia de Aulas Práticas</strong> foi desenvolvido pelo Prof. <strong>Welligton Passos de Almeida</strong>.</p>
+      <p>📎 <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing" target="_blank">Clique aqui para baixar a apostila</a></p>
+    </div>
+  </div>
+
+  <hr>
+
+  <h2>🙏 Agradecimentos</h2>
+
+  <ul style="line-height: 1.8;">
+    <li>
+      <strong>Prof. Colimar Marques Vieira</strong><br>
+      🛠️ <em>Contribuição:</em> Elaboração e disponibilização do Guia de Aulas Práticas da disciplina.<br>
+      📄 <a href="http://lattes.cnpq.br/4432862799465667" target="_blank">Currículo Lattes</a>
+    </li>
+    <br>
+    <li>
+      <strong>Prof. Welligton Passos de Almeida</strong><br>
+      🛠️ <em>Contribuição:</em> Elaboração e disponibilização do Guia de Aulas Práticas da disciplina.<br>
+      📄 <a href="http://lattes.cnpq.br/8651107332611509" target="_blank">Currículo Lattes</a>
+    </li>
+  </ul>
+</section>
+
+
+
+
+
+
+
+
+
+
+
 
 ### Onde encontrar o material didático complementar para download?
 
