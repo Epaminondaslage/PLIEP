@@ -29,363 +29,360 @@
 
 ## 📘 Programação das Aulas Práticas – PLIP
 
-<style>
-  table.plip-aula {
-    width: 100%;
-    max-width: 380px;
-    height: 164px;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-    border: 1px solid #ccc;
-    font-family: sans-serif;
-  }
-
-  table.plip-aula td {
-    padding: 8px;
-    text-align: center;
-    vertical-align: middle;
-  }
-
-  table.plip-aula img {
-    display: block;
-    margin: 0 auto;
-  }
-
-  table.plip-aula a {
-    text-decoration: none;
-    color: #0077cc;
-    font-weight: bold;
-  }
-
-  table.plip-aula a:hover {
-    color: #004a99;
-  }
-</style>
+> ⚠️ **Atenção:** Aulas com o ícone 🚧 estão sendo reformuladas para a nova ementa 2025.
 
 
-<table class="plip-aula">
-  <tr><td colspan="2">1ª Aula prática: Normas de uso do Laboratório de Instalações Prediais</td></tr>
+<table>
+  <tr><td colspan="2" align="center"><strong>1ª Aula prática: Normas de uso do Laboratório de Instalações Prediais</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1eUzfOXdDBA1caKZ-2k_tjds1bMTLJznB/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1eUzfOXdDBA1caKZ-2k_tjds1bMTLJznB/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1l9M39J_MzeyCQftY9oC-L6YzVN5ahUXk/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1l9M39J_MzeyCQftY9oC-L6YzVN5ahUXk/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">2ª Aula prática: Identificação de Ferramentas</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>2ª Aula prática: Identificação de Ferramentas</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1LWhEOQNPkyWHI2VlhK9C-67VIi3IeibS/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1LWhEOQNPkyWHI2VlhK9C-67VIi3IeibS/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1sntn04649jLY6V8HYqhLR-EQ1z5vay28/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1sntn04649jLY6V8HYqhLR-EQ1z5vay28/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">3ª Aula prática: Tipos de Emendas em cabos e conectores</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>3ª Aula prática: Tipos de Emendas em cabos e conectores</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1oay7kjkCN0j_7KuiU-ajx7eCMxr6iGHb/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1oay7kjkCN0j_7KuiU-ajx7eCMxr6iGHb/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1g6pzrcdyLA1SxSP70rHitKaamqwJSQbf/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1g6pzrcdyLA1SxSP70rHitKaamqwJSQbf/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">4ª Aula prática: Simbologia e Equipamentos das Instalações Elétricas Prediais</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>4ª Aula prática: Simbologia e Equipamentos das Instalações Elétricas Prediais</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1EQBDzbkk97IedTg2iE9UqMOZqeqdpAAA/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1EQBDzbkk97IedTg2iE9UqMOZqeqdpAAA/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1djlPdTcQTdMrD0rS0Ew3WVlu8DMY7kG9/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1djlPdTcQTdMrD0rS0Ew3WVlu8DMY7kG9/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">5ª Aula prática: Diagrama Multifilar</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>5ª Aula prática: Diagrama Multifilar</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1I-M_Oyr5rXDWaDuUdby1H_40LqkjNx3E/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1I-M_Oyr5rXDWaDuUdby1H_40LqkjNx3E/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1tZm4E2LgZuyZyNVsHr_83k_GuT2h3fEb/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1tZm4E2LgZuyZyNVsHr_83k_GuT2h3fEb/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">6ª Aula prática: Diagrama Unifilar</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>6ª Aula prática: Diagrama Unifilar</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1wpEcAC3m7oTqJp4ByyFisNT5eGkGVZqA/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1wpEcAC3m7oTqJp4ByyFisNT5eGkGVZqA/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/13YG2mckIwVWOZ6zhaeuXw7oagP_eVBrn/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/13YG2mckIwVWOZ6zhaeuXw7oagP_eVBrn/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">7ª Aula prática: Instalações Embutidas 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>7ª Aula prática: Instalações Embutidas 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">8ª Aula prática: Instalações Embutidas 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>8ª Aula prática: Instalações Embutidas 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">9ª Aula prática: Quadro Sinalizador de Chamadas 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Quadro Sinalizador de Chamadas 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">10ª Aula prática: Instalação de Dispositivos de Proteção - DR e DPS 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>10ª Aula prática: Instalação de Dispositivos de Proteção - DR e DPS 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">11ª Aula prática: Instalação de Minuteria e Sensor de Presença 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Minuteria e Sensor de Presença 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">13ª Aula prática: Instalação de Ventilador de Teto 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>13ª Aula prática: Instalação de Ventilador de Teto 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">14ª Aula prática: Instalação Relé de Impulso 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>14ª Aula prática: Instalação Relé de Impulso 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">15ª Aula prática: Instalação Relé Fotoelétrico 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>15ª Aula prática: Instalação Relé Fotoelétrico 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">16ª Aula prática: Instalação Chave-bóia 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>16ª Aula prática: Instalação Chave-bóia 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">17ª Aula prática: Instalação Programador de Horário 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>17ª Aula prática: Instalação Programador de Horário 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">18ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>18ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">19ª Aula prática: Sistemas de Comunicação - Interfone 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>19ª Aula prática: Sistemas de Comunicação - Interfone 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">20ª Aula prática: Redes de Computadores e Cabeamento Estruturado</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>20ª Aula prática: Redes de Computadores e Cabeamento Estruturado</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1NzsIF62M6m5E8GVjR6NKcUD4ptzd1OIR/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1NzsIF62M6m5E8GVjR6NKcUD4ptzd1OIR/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1llCpq6oF1gC6lu-nBNZfBqK2O17OCh2Q/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1llCpq6oF1gC6lu-nBNZfBqK2O17OCh2Q/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">21ª Aula prática: Circuitos de Telefonia IP - PABX IP</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>21ª Aula prática: Circuitos de Telefonia IP - PABX IP</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/1GgOUMhBzNwHICMluXs709TqBQ8-HF6aA/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1GgOUMhBzNwHICMluXs709TqBQ8-HF6aA/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25/view?usp=sharing">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center"><a href="https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">22ª Aula prática: Dispositivos Inteligentes de Acionamento WIFI 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>22ª Aula prática: Dispositivos Inteligentes de Acionamento WIFI 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">23ª Aula prática: Dispositivos Inteligentes de Acionamento Zigbee 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>23ª Aula prática: Dispositivos Inteligentes de Acionamento Zigbee 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">24ª Aula prática: Relés IP Multiprotocolos 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>24ª Aula prática: Relés IP Multiprotocolos 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">25ª Aula prática: Sistemas de Automação Residencial - HomeAssistant 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>25ª Aula prática: Sistemas de Automação Residencial - HomeAssistant 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">26ª Aula prática: Sistemas de Automação Residencial - Automações 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>26ª Aula prática: Sistemas de Automação Residencial - Automações 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
-<table class="plip-aula">
-  <tr><td colspan="2">27ª Aula prática: Projetos Elétricos 🚧</td></tr>
+
+<table>
+  <tr><td colspan="2" align="center"><strong>27ª Aula prática: Projetos Elétricos 🚧</strong></td></tr>
   <tr>
-    <td><img src="img/doc.png" width="39" height="39" /></td>
-    <td><a href="">Guia de Aula</a></td>
+    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
+    <td align="center">Guia de Aula (em breve)</td>
   </tr>
   <tr>
-    <td><img src="img/pdf.png" width="30" height="39" /></td>
-    <td><a href="">Slides da Aula</a></td>
+    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
+    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
+
+
   <h2>📂 Onde encontrar o material didático complementar para download?</h2>
   <hr>
 
