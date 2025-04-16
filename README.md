@@ -1,23 +1,31 @@
 <td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="10%" /></td>
 
-**CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
-**DEPARTAMENTO DE ENGENHARIA ELÉTRICA - CEFET-MG**  
-**COORDENAÇÃO DO CURSO DE ELETROTÉCNICA**
-**Ano Letivo: 2025**
----
-## Disciplina: PLIP - Prática de Laboratório de Instalações Prediais
-
-| **Responsável**         | **Professor**          |
-|-------------------------|-----------------------|
-| Prof. Epaminondas Lage  | [Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
+# **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+## **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
+**Ano Letivo:** *2025*
 
 ---
-### [Ementa da discliplina 2025](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md) 
-### [Normas para uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
-### Programaçao das Aulas Práticas
+## 📘 Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 
-**Práticas com o icone  🚧  no titulo estão sendo remodeladas e ajustadas para a nova ementa 2025**
+### 👨‍🏫 Responsável pela Disciplina
+| **Nome**                | **Perfil Acadêmico** |
+|-------------------------|----------------------|
+| Prof. Epaminondas Lage  | [🔗 Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
+
+---
+
+### 📄 Documentos Importantes
+- 🔹 [Ementa da Disciplina 2025](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
+- 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
+
+---
+
+### 🧪 Programação das Aulas Práticas
+
+> ⚠️ **Atenção**: Práticas com o ícone 🚧 no título estão sendo **remodeladas** e **ajustadas** para a nova ementa de 2025.
+
 
 <table style="height: 164px;" width="378" border="1">
   <tbody>
