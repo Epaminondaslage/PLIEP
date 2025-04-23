@@ -85,7 +85,7 @@
   <tr><td colspan="2" align="center"><strong>5ª Aula prática: Diagrama Multifilar</strong></td></tr>
   <tr>
     <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center"><a href="hhttps://drive.google.com/file/d/1EcBOpqbTAl7KqqFvyfQYoOmjawwzq7vN/view?usp=sharing">Guia de Aula</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1EcBOpqbTAl7KqqFvyfQYoOmjawwzq7vN/view?usp=sharing">Guia de Aula</a></td>
   </tr>
   <tr>
     <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
