@@ -173,14 +173,14 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas </strong></td></tr>
   <tr>
     <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
+    <td align="center"><a href="  ">Guia de Aula</a></td>
   </tr>
   <tr>
     <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1TBwP9LjOKi482zuKBaX_k74yYD7RgEMy/view?usp=sharing">Slides da Aula</a></td>
   </tr>
 </table>
 
