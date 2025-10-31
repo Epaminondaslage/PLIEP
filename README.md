@@ -254,7 +254,7 @@
   <tr><td colspan="2" align="center"><strong>18ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧</strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
-    <td align="center">Git da Aula ](https://github.com/Epaminondaslage/PLIEP-CFTV)</td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-CFTV">Git da Aula</a></td>
   </tr>
 </table>
 
