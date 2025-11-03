@@ -134,7 +134,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Sinalizador de Porat de Garagem </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Sinalizador de Portão de Garagem </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href=" https://github.com/Epaminondaslage/multivibrador-astavel">Git da Aula</a></td>
@@ -168,7 +168,7 @@
   <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
-    <td align="center"><a href="  ">Gut da Aula</a></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/quadro_de_chamadas">Git da Aula</a></td>
   </tr>
   <tr>
     <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
