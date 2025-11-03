@@ -134,14 +134,10 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Quadro Sinalizador de Chamadas 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Sinalizador de Portão de Garagem </strong></td></tr>
   <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href=" https://github.com/Epaminondaslage/multivibrador-astavel">Git da Aula</a></td>
   </tr>
 </table>
 
@@ -160,14 +156,10 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Minuteria e Sensor de Presença 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Minuteria </strong></td></tr>
   <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/DK-C-01">Git da Aula</a></td>
   </tr>
 </table>
 
@@ -175,8 +167,8 @@
 <table>
   <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas </strong></td></tr>
   <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center"><a href="  ">Guia de Aula</a></td>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/quadro_de_chamadas">Git da Aula</a></td>
   </tr>
   <tr>
     <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
@@ -251,14 +243,10 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>18ª Aula prática: Sistemas de CFTV – DVR e NVR 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>18ª Aula prática: Sistemas de CFTV – DVR e NVR </strong></td></tr>
   <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-CFTV">Git da Aula</a></td>
   </tr>
 </table>
 
@@ -298,6 +286,10 @@
   <tr>
     <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
     <td align="center"><a href="https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25/view?usp=sharing">Slides da Aula</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-PBXIP">Git da Aula</a></td>
   </tr>
 </table>
 
@@ -356,19 +348,6 @@
 
 <table>
   <tr><td colspan="2" align="center"><strong>26ª Aula prática: Sistemas de Automação Residencial - Automações 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr><td colspan="2" align="center"><strong>27ª Aula prática: Projetos Elétricos 🚧</strong></td></tr>
   <tr>
     <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
     <td align="center">Guia de Aula (em breve)</td>
