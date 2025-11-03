@@ -137,7 +137,7 @@
   <tr><td colspan="2" align="center"><strong>9ª Aula prática: Sinalizador de Portão de Garagem </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
-    <td align="center"><a href=" https://github.com/Epaminondaslage/multivibrador-astavel">Git da Aula</a></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/multivibrador-astavel">Git da Aula</a></td>
   </tr>
 </table>
 
