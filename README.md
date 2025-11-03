@@ -289,7 +289,7 @@
   </tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
-    <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-PABXIP">Git da Aula</a></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-PBXIP">Git da Aula</a></td>
   </tr>
 </table>
 
