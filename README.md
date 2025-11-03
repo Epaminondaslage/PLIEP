@@ -295,6 +295,10 @@
     <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
     <td align="center"><a href="https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25/view?usp=sharing">Slides da Aula</a></td>
   </tr>
+  <tr>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-PABXIP">Git da Aula</a></td>
+  </tr>
 </table>
 
 
