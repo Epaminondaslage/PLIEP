@@ -3,7 +3,6 @@
 # **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
 ## **Departamento de Engenharia Elétrica - CEFET-MG**  
 ### **Coordenação do Curso de Eletrotécnica**  
-**Ano Letivo:** *2025*
 
 ---
 
