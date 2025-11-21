@@ -226,7 +226,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>17ª Aula prática: Instalação Programador de Horário 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>17ª Aula prática: Instalação Programador de Horário </strong></td></tr>
     <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/programador-de-horario">Git da Aula</a></td>
