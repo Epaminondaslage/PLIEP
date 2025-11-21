@@ -140,7 +140,7 @@
   <tr><td colspan="2" align="center"><strong>10ª Aula prática: Instalação de Dispositivos de Proteção - DR e DPS </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
-    <td align="center"><a href="https://github.com/Epaminondaslage/dr_dps">Git da Aula</a></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/dr-dps">Git da Aula</a></td>
   </tr>
 </table>
 
@@ -149,7 +149,7 @@
   <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Minuteria </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
-    <td align="center"><a href="https://github.com/Epaminondaslage/">Git da Aula</a></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/DK-C-01">Git da Aula</a></td>
   </tr>
 </table>
 
