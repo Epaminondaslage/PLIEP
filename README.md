@@ -177,7 +177,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>13ª Aula prática: Instalação de Ventilador de Teto 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>13ª Aula prática: Instalação de Ventilador de Teto </strong></td></tr>
     <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/ventilador-de-teto">Git da Aula</a></td>
