@@ -8,7 +8,7 @@
 
 ## 📘 Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 
-### 👨‍🏫 Responsável pela Disciplina
+### 👨‍🏫 Professor da  Disciplina
 | **Nome**                | **Perfil Acadêmico** |
 |-------------------------|----------------------|
 | Prof. Epaminondas Lage  | [🔗 Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
