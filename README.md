@@ -349,7 +349,7 @@
     <div>
       <h3>📘 Guia de Aulas Práticas – Prof. Colimar Marques Vieira</h3>
       <p>O <strong>Guia de Aulas Práticas</strong> foi desenvolvido pelo Prof. <strong>Colimar Marques Vieira</strong>.</p>
-      <p>📎 <a href="https://drive.google.com/file/d/1qATqn1-c8swUFSKdSto68k_on0QtuZYd/view?usp=sharing" target="_blank">Clique aqui para baixar a apostila</a></p>
+      <p>📎 <a href="https://drive.google.com/file/d/1GgpoYiPZgxRMmqZywpOUZKCYdzChKYSK/view?usp=sharing" target="_blank">Clique aqui para baixar a apostila</a></p>
     </div>
   </div>
 
@@ -359,7 +359,7 @@
     <div>
       <h3>📗 Guia de Aulas Práticas – Prof. Welligton Passos de Almeida</h3>
       <p>O <strong>Guia de Aulas Práticas</strong> foi desenvolvido pelo Prof. <strong>Welligton Passos de Almeida</strong>.</p>
-      <p>📎 <a href="https://drive.google.com/file/d/1tNbCevQwSDAHAGg77yl-ly7lHEl-kolY/view?usp=sharing" target="_blank">Clique aqui para baixar a apostila</a></p>
+      <p>📎 <a href="https://drive.google.com/file/d/1O5VKhayPZAwVescObEjfM_ovxF0Cpcu4/view?usp=drive_link" target="_blank">Clique aqui para baixar a apostila</a></p>
     </div>
   </div>
 
