@@ -2,11 +2,9 @@
     <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
 </td>
 
-## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
 ### **Departamento de Engenharia Elétrica - CEFET-MG**  
-#### **Coordenação do Curso de Eletrotécnica**  
-
----
+### **Coordenação do Curso de Eletrotécnica**  
 
 ##  Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 
@@ -180,14 +178,11 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>14ª Aula prática: Instalação Relé de Impulso 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+  <tr><td colspan="2" align="center"><strong>14ª Aula prática: Instalação Relé de Impulso </strong></td></tr>
+    <tr>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/rele-impulso">Git da Aula</a></td>
+    </tr>
   </tr>
 </table>
 
@@ -202,15 +197,11 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>16ª Aula prática: Instalação Chave-bóia 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
+  <tr><td colspan="2" align="center"><strong>16ª Aula prática: Instalação Chave-bóia </strong></td></tr>
+    <tr>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/chave-boia">Git da Aula</a></td>
+    </tr>
 </table>
 
 
