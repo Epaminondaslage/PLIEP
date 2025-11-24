@@ -6,22 +6,22 @@
 ### **Departamento de Engenharia Elétrica - CEFET-MG**  
 ### **Coordenação do Curso de Eletrotécnica**  
 
-##  Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+###  Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 
-###  Professor da  Disciplina
+####  Professor da  Disciplina
 | **Nome**                | **Perfil Acadêmico** |
 |-------------------------|----------------------|
 | Prof. Epaminondas Lage  | [🔗 Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
 
 ---
 
-###  Documentos Importantes
+####  Documentos Importantes
 🔹 [Ementa da Disciplina 2025](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ---
 
-##  Programação das Aulas Práticas – PLIP
+###  Programação das Aulas Práticas – PLIP
 
 <table>
   <tr><td colspan="2" align="center"><strong>1ª Aula prática: Normas de uso do Laboratório de Instalações Prediais</strong></td></tr>
