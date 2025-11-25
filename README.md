@@ -102,30 +102,22 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>7ª Aula prática: Instalações Embutidas 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>7ª Aula prática: Instalações Embutidas I </strong></td></tr>
   <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/instalacao-embutida-1">Git da Aula</a></td>
   </tr>
 </table>
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>8ª Aula prática: Instalações Embutidas 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
+  <tr><td colspan="2" align="center"><strong>8ª Aula prática: Instalações Embutidas II </strong></td></tr>
+ 
 </table>
-
+<tr>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/instalacao-embutida-2">Git da Aula</a></td>
+  </tr>
 
 <table>
   <tr><td colspan="2" align="center"><strong>9ª Aula prática: Sinalizador de Portão de Garagem </strong></td></tr>
