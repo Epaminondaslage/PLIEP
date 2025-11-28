@@ -136,7 +136,6 @@
   </tr>
 </table>
 
-
 <table>
   <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Minuteria </strong></td></tr>
   <tr>
@@ -144,7 +143,6 @@
     <td align="center"><a href="https://github.com/Epaminondaslage/DK-C-01">Git da Aula</a></td>
   </tr>
 </table>
-
 
 <table>
   <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas </strong></td></tr>
@@ -216,17 +214,12 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>19ª Aula prática: Sistemas de Comunicação - Interfone 🚧</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>19ª Aula prática: Sistemas de Comunicação - Vídeo Porteiro </strong></td></tr>
   <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/video-porteiro">Git da Aula</a></td>
   </tr>
 </table>
-
 
 <table>
   <tr><td colspan="2" align="center"><strong>20ª Aula prática: Redes de Computadores e Cabeamento Estruturado</strong></td></tr>
