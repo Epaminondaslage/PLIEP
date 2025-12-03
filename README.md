@@ -8,7 +8,7 @@
 
 ###  Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 
-####  Professor da  Disciplina
+####  Professores da  Disciplina
 | **Nome**                | **Perfil Acadêmico** |
 |-------------------------|----------------------|
 | Prof. Epaminondas Lage  | [🔗 Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
@@ -23,7 +23,9 @@
 
 ### Laboratório sala 203 do Prédio 19
 
-
+ <tr>
+    <td align="center"><img src="img/lab.jpg" width="39" height="39" /></td>
+ </tr>
 
 ###  Programação das Aulas Práticas – PLIP
 
