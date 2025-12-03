@@ -21,6 +21,10 @@
 
 ---
 
+### Laboratório sala 203 do Prédio 19
+
+
+
 ###  Programação das Aulas Práticas – PLIP
 
 <table>
