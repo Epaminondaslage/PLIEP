@@ -20,12 +20,15 @@
 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ---
+O **Laboratório de Instalações Elétricas Prediais** é um ambiente didático especializado para o desenvolvimento de competências técnicas nas áreas de instalações elétricas residenciais, prediais, automação básica, proteção elétrica, comunicação e redes de dados. O espaço dispõe de 06 bancadas, painéis didáticos, box didáticos, dispositivos de proteção, sistemas de iluminação, sinalização, automação, CFTV, telefonia IP e infraestrutura para cabeamento estruturado.
+
+O laboratório é projetado para permitir a execução prática de montagens reais, simulações de campo e testes operacionais, proporcionando ao aluno vivência profissional compatível com as exigências do mercado de trabalho, atendendo às normas técnicas vigentes (NBR 5410, NBR 5419, NBR 14565, entre outras).
 
 ### Laboratório sala 203 do Prédio 19
 
- <tr>
-    <td align="center"><img src="img/lab.jpg" width="700" height="400" /></td>
- </tr>
+<p align="center">
+  <img src="./img/lab.jpg" alt="lIEP" width="25%">
+</p>
 
 ###  Programação das Aulas Práticas – PLIP
 
