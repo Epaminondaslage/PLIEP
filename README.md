@@ -101,6 +101,7 @@
 </table>
 
 
+
 <table>
   <tr><td colspan="2" align="center"><strong>7ª Aula prática: Instalações Embutidas I </strong></td></tr>
   <tr>
@@ -118,9 +119,17 @@
   </tr>
 </table>
 
+<table>
+  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Ligação de Lâmpadas Led Tubulares </strong></td></tr>
+ <tr>
+    <td align="center"><img src="img/git.png" width="39" height="39" /></td>
+    <td align="center"><a href="https://github.com/Epaminondaslage/led-tubular">Git da Aula</a></td>
+  </tr>
+</table>
+
 
 <table>
-  <tr><td colspan="2" align="center"><strong>9ª Aula prática: Sinalizador de Portão de Garagem </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>10ª Aula prática: Sinalizador de Portão de Garagem </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/multivibrador-astavel">Git da Aula</a></td>
@@ -129,7 +138,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>10ª Aula prática: Instalação de Dispositivos de Proteção - DR e DPS </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Dispositivos de Proteção - DR e DPS </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/dr-dps">Git da Aula</a></td>
@@ -137,7 +146,7 @@
 </table>
 
 <table>
-  <tr><td colspan="2" align="center"><strong>11ª Aula prática: Instalação de Minuteria </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Minuteria </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/DK-C-01">Git da Aula</a></td>
@@ -145,7 +154,7 @@
 </table>
 
 <table>
-  <tr><td colspan="2" align="center"><strong>12ª Aula prática: Instalação de Quadro Sinalizador de Chamadas </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>13ª Aula prática: Instalação de Quadro Sinalizador de Chamadas </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/quadro_de_chamadas">Git da Aula</a></td>
@@ -158,7 +167,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>13ª Aula prática: Instalação de Ventilador de Teto </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>14ª Aula prática: Instalação de Ventilador de Teto </strong></td></tr>
     <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/ventilador-de-teto">Git da Aula</a></td>
@@ -168,7 +177,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>14ª Aula prática: Instalação Relé de Impulso </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>15ª Aula prática: Instalação Relé de Impulso </strong></td></tr>
     <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/rele-impulso">Git da Aula</a></td>
@@ -178,7 +187,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>15ª Aula prática: Instalação Relé Fotoelétrico </strong></td></tr>  
+  <tr><td colspan="2" align="center"><strong>16ª Aula prática: Instalação Relé Fotoelétrico </strong></td></tr>  
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/rele-fotoeletrico">Git da Aula</a></td>
@@ -187,7 +196,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>16ª Aula prática: Instalação Chave-bóia </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>17ª Aula prática: Instalação Chave-bóia </strong></td></tr>
     <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/chave-boia">Git da Aula</a></td>
@@ -196,7 +205,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>17ª Aula prática: Instalação Programador de Horário </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>18ª Aula prática: Instalação Programador de Horário </strong></td></tr>
     <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/programador-de-horario">Git da Aula</a></td>
@@ -205,7 +214,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>18ª Aula prática: Sistemas de CFTV – DVR e NVR </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>19ª Aula prática: Sistemas de CFTV – DVR e NVR </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-CFTV">Git da Aula</a></td>
@@ -214,7 +223,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>19ª Aula prática: Sistemas de Comunicação - Vídeo Porteiro </strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>20ª Aula prática: Sistemas de Comunicação - Vídeo Porteiro </strong></td></tr>
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/video-porteiro">Git da Aula</a></td>
@@ -222,7 +231,7 @@
 </table>
 
 <table>
-  <tr><td colspan="2" align="center"><strong>20ª Aula prática: Redes de Computadores e Cabeamento Estruturado</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>21ª Aula prática: Redes de Computadores e Cabeamento Estruturado</strong></td></tr>
   <tr>
     <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
     <td align="center"><a href="https://drive.google.com/file/d/1NzsIF62M6m5E8GVjR6NKcUD4ptzd1OIR/view?usp=sharing">Guia de Aula</a></td>
@@ -235,7 +244,7 @@
 
 
 <table>
-  <tr><td colspan="2" align="center"><strong>21ª Aula prática: Circuitos de Telefonia IP - PABX IP</strong></td></tr>
+  <tr><td colspan="2" align="center"><strong>22ª Aula prática: Circuitos de Telefonia IP - PABX IP</strong></td></tr>
   <tr>
     <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
     <td align="center"><a href="https://drive.google.com/file/d/1GgOUMhBzNwHICMluXs709TqBQ8-HF6aA/view?usp=sharing">Guia de Aula</a></td>
@@ -247,71 +256,6 @@
   <tr>
     <td align="center"><img src="img/git.png" width="39" height="39" /></td>
     <td align="center"><a href="https://github.com/Epaminondaslage/PLIEP-PBXIP">Git da Aula</a></td>
-  </tr>
-</table>
-
-
-<table>
-  <tr><td colspan="2" align="center"><strong>22ª Aula prática: Dispositivos Inteligentes de Acionamento WIFI 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr><td colspan="2" align="center"><strong>23ª Aula prática: Dispositivos Inteligentes de Acionamento Zigbee 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr><td colspan="2" align="center"><strong>24ª Aula prática: Relés IP Multiprotocolos 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr><td colspan="2" align="center"><strong>25ª Aula prática: Sistemas de Automação Residencial - HomeAssistant 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr><td colspan="2" align="center"><strong>26ª Aula prática: Sistemas de Automação Residencial - Automações 🚧</strong></td></tr>
-  <tr>
-    <td align="center"><img src="img/doc.png" width="39" height="39" /></td>
-    <td align="center">Guia de Aula (em breve)</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/pdf.png" width="30" height="39" /></td>
-    <td align="center">Slides da Aula (em breve)</td>
   </tr>
 </table>
 
