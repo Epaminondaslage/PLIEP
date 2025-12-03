@@ -6,26 +6,34 @@
 ### **Departamento de Engenharia Elétrica - CEFET-MG**  
 ### **Coordenação do Curso de Eletrotécnica**  
 
-###  Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+###  Disciplina: **PLIEP - Prática de Laboratório de Instalações Eletricas Prediais**
+
+O **Laboratório de Instalações Elétricas Prediais** é um ambiente didático especializado para o desenvolvimento de competências técnicas nas áreas de instalações elétricas residenciais, prediais, automação básica, proteção elétrica, comunicação e redes de dados. O espaço dispõe de 06 bancadas, painéis didáticos, box didáticos, dispositivos de proteção, sistemas de iluminação, sinalização, automação, CFTV, telefonia IP e infraestrutura para cabeamento estruturado.
+
+O laboratório é projetado para permitir a execução prática de montagens reais, simulações de campo e testes operacionais, proporcionando ao aluno vivência profissional compatível com as exigências do mercado de trabalho, atendendo às normas técnicas vigentes (NBR 5410, NBR 5419, NBR 14565, entre outras).
+
+### Laboratório: sala 203 do Prédio 19
+
+<p align="center">
+  <img src="./img/lab.jpg" alt="lIEP" width="70%">
+</p>
 
 ####  Professores da  Disciplina
 | **Nome**                | **Perfil Acadêmico** |
 |-------------------------|----------------------|
 | Prof. Epaminondas Lage  | [🔗 Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
+| Prof. Welligton Passos de Almeida |  [🔗 Currículo Lattes](http://lattes.cnpq.br/8651107332611509) |
+| Rrof. Henrique dos Reis Paula |  [🔗 Currículo Lattes](http://lattes.cnpq.br/7030605162734260) |
+
 
 ---
 
 ####  Documentos Importantes
-🔹 [Ementa da Disciplina 2025](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
+
+🔹 [Ementa da Disciplina ](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ---
-
-### Laboratório sala 203 do Prédio 19
-
- <tr>
-    <td align="center"><img src="img/lab.jpg" width="39" height="39" /></td>
- </tr>
 
 ###  Programação das Aulas Práticas – PLIP
 
