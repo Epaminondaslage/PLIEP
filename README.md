@@ -19,11 +19,12 @@ O laboratório é projetado para permitir a execução prática de montagens rea
 </p>
 
 ####  Professores da  Disciplina
+
 | **Nome**                | **Perfil Acadêmico** |
 |-------------------------|----------------------|
 | Prof. Epaminondas Lage  | [🔗 Currículo Lattes](http://lattes.cnpq.br/7787341723868111) |
 | Prof. Welligton Passos de Almeida |  [🔗 Currículo Lattes](http://lattes.cnpq.br/8651107332611509) |
-| Rrof. Henrique dos Reis Paula |  [🔗 Currículo Lattes](http://lattes.cnpq.br/7030605162734260) |
+| Prof. Henrique dos Reis Paula |  [🔗 Currículo Lattes](http://lattes.cnpq.br/7030605162734260) |
 
 
 ---
