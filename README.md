@@ -24,7 +24,7 @@
 ### Laboratório sala 203 do Prédio 19
 
  <tr>
-    <td align="center"><img src="img/lab.jpg" width="39" height="39" /></td>
+    <td align="center"><img src="img/lab.jpg" width="600" height="400" /></td>
  </tr>
 
 ###  Programação das Aulas Práticas – PLIP
