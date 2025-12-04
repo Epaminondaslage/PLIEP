@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="120">
+  <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="180">
 </div>
 
 ### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**
@@ -46,12 +46,12 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 ---
 
 ##  Documentos Importantes
-- 🔹 [Ementa da Disciplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
-- 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
+-  [Ementa da Disciplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
+-  [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ---
 
-#  Programação das Aulas Práticas – PLIEP
+##  Programação das Aulas Práticas – PLIEP
 
 | Aula | Tema | Materiais |
 |------|------|-----------|
@@ -81,7 +81,7 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 ---
 
-#  Material Didático Complementar
+##  Material Didático Complementar
 
 ###  Guia – Prof. Colimar Marques Vieira
 📎 [Baixar Apostila](https://drive.google.com/file/d/1GgpoYiPZgxRMmqZywpOUZKCYdzChKYSK)
@@ -91,7 +91,7 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 ---
 
-#  Agradecimentos
+##  Agradecimentos
 
 - **Prof. Colimar Marques Vieira**  
   🛠 Elaboração do Guia de Aulas  
