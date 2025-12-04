@@ -117,5 +117,3 @@ As práticas do laboratório seguem, além da NR-10:
 
 ---
 
-- Garante a confiabilidade dos experimentos;
-- Forma profissionais conscientes, éticos e tecnicamente preparados.
