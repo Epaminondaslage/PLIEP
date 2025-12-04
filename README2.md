@@ -55,29 +55,29 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 | Aula | Tema | Materiais |
 |------|------|-----------|
-| **1ª** | Normas de Uso do Laboratório | 📄 [Guia](https://drive.google.com/file/d/1eUzfOXdDBA1caKZ-2k_tjds1bMTLJznB) · 📑 [Slides](https://drive.google.com/file/d/1l9M39J_MzeyCQftY9oC-L6YzVN5ahUXk) |
-| **2ª** | Identificação de Ferramentas | 📄 [Guia](https://drive.google.com/file/d/1LWhEOQNPkyWHI2VlhK9C-67VIi3IeibS) · 📑 [Slides](https://drive.google.com/file/d/1sntn04649jLY6V8HYqhLR-EQ1z5vay28) |
-| **3ª** | Tipos de Emendas | 📄 [Guia](https://drive.google.com/file/d/1oay7kjkCN0j_7KuiU-ajx7eCMxr6iGHb) · 📑 [Slides](https://drive.google.com/file/d/1g6pzrcdyLA1SxSP70rHitKaamqwJSQbf) |
-| **4ª** | Simbologia Elétrica | 📄 [Guia](https://drive.google.com/file/d/1EQBDzbkk97IedTg2iE9UqMOZqeqdpAAA) · 📑 [Slides](https://drive.google.com/file/d/1djlPdTcQTdMrD0rS0Ew3WVlu8DMY7kG9) |
-| **5ª** | Diagrama Multifilar | 📄 [Guia](https://drive.google.com/file/d/1EcBOpqbTAl7KqqFvyfQYoOmjawwzq7vN) · 📑 [Slides](https://drive.google.com/file/d/1oZdobB-9jIZ9zCiP8Gq1pkPYCoT7OZoS) |
-| **6ª** | Diagrama Unifilar | 📄 [Guia](https://drive.google.com/file/d/1wpEcAC3m7oTqJp4ByyFisNT5eGkGVZqA) · 📑 [Slides](https://drive.google.com/file/d/13YG2mckIwVWOZ6zhaeuXw7oagP_eVBrn) |
-| **7ª** | Interruptores e Tomadas | 🧩 [Git](https://github.com/Epaminondaslage/painel-didatico-interruptores) |
-| **8ª** | Instalações Embutidas I | 🧩 [Git](https://github.com/Epaminondaslage/instalacao-embutida-1) |
-| **9ª** | Instalações Embutidas II | 🧩 [Git](https://github.com/Epaminondaslage/instalacao-embutida-2) |
-| **10ª** | Lâmpadas LED Tubulares | 🧩 [Git](https://github.com/Epaminondaslage/led-tubular) |
-| **11ª** | Sinalizador de Portão | 🧩 [Git](https://github.com/Epaminondaslage/multivibrador-astavel) |
-| **12ª** | DR e DPS | 🧩 [Git](https://github.com/Epaminondaslage/dr-dps) |
-| **13ª** | Minuteria | 🧩 [Git](https://github.com/Epaminondaslage/DK-C-01) |
-| **14ª** | Quadro de Chamadas | 🧩 [Git](https://github.com/Epaminondaslage/quadro_de_chamadas) · 📑 [Slides](https://drive.google.com/file/d/1TBwP9LjOKi482zuKBaX_k74yYD7RgEMy) |
-| **15ª** | Ventilador de Teto | 🧩 [Git](https://github.com/Epaminondaslage/ventilador-de-teto) |
-| **16ª** | Relé de Impulso | 🧩 [Git](https://github.com/Epaminondaslage/rele-impulso) |
-| **17ª** | Relé Fotoelétrico | 🧩 [Git](https://github.com/Epaminondaslage/rele-fotoeletrico) |
-| **18ª** | Chave-Bóia | 🧩 [Git](https://github.com/Epaminondaslage/chave-boia) |
-| **19ª** | Programador de Horário | 🧩 [Git](https://github.com/Epaminondaslage/programador-de-horario) |
-| **20ª** | Sistemas de CFTV | 🧩 [Git](https://github.com/Epaminondaslage/PLIEP-CFTV) |
-| **21ª** | Vídeo Porteiro | 🧩 [Git](https://github.com/Epaminondaslage/video-porteiro) |
-| **22ª** | Cabeamento Estruturado | 📄 [Guia](https://drive.google.com/file/d/1NzsIF62M6m5E8GVjR6NKcUD4ptzd1OIR) · 📑 [Slides](https://drive.google.com/file/d/1llCpq6oF1gC6lu-nBNZfBqK2O17OCh2Q) |
-| **23ª** | Telefonia IP – PABX | 📄 [Guia](https://drive.google.com/file/d/1GgOUMhBzNwHICMluXs709TqBQ8-HF6aA) · 📑 [Slides](https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25) · 🧩 [Git](https://github.com/Epaminondaslage/PLIEP-PBXIP) |
+| **1ª** | Normas de Uso do Laboratório | 📕 [Guia](https://drive.google.com/file/d/1eUzfOXdDBA1caKZ-2k_tjds1bMTLJznB) · 📊 [Slides](https://drive.google.com/file/d/1l9M39J_MzeyCQftY9oC-L6YzVN5ahUXk) |
+| **2ª** | Identificação de Ferramentas | 📕 [Guia](https://drive.google.com/file/d/1LWhEOQNPkyWHI2VlhK9C-67VIi3IeibS) · 📊 [Slides](https://drive.google.com/file/d/1sntn04649jLY6V8HYqhLR-EQ1z5vay28) |
+| **3ª** | Tipos de Emendas | 📕 [Guia](https://drive.google.com/file/d/1oay7kjkCN0j_7KuiU-ajx7eCMxr6iGHb) · 📊 [Slides](https://drive.google.com/file/d/1g6pzrcdyLA1SxSP70rHitKaamqwJSQbf) |
+| **4ª** | Simbologia Elétrica | 📕 [Guia](https://drive.google.com/file/d/1EQBDzbkk97IedTg2iE9UqMOZqeqdpAAA) · 📊 [Slides](https://drive.google.com/file/d/1djlPdTcQTdMrD0rS0Ew3WVlu8DMY7kG9) |
+| **5ª** | Diagrama Multifilar | 📕 [Guia](https://drive.google.com/file/d/1EcBOpqbTAl7KqqFvyfQYoOmjawwzq7vN) · 📊 [Slides](https://drive.google.com/file/d/1oZdobB-9jIZ9zCiP8Gq1pkPYCoT7OZoS) |
+| **6ª** | Diagrama Unifilar | 📕 [Guia](https://drive.google.com/file/d/1wpEcAC3m7oTqJp4ByyFisNT5eGkGVZqA) · 📊 [Slides](https://drive.google.com/file/d/13YG2mckIwVWOZ6zhaeuXw7oagP_eVBrn) |
+| **7ª** | Interruptores e Tomadas |  [GitHub](https://github.com/Epaminondaslage/painel-didatico-interruptores) |
+| **8ª** | Instalações Embutidas I |  [GitHub](https://github.com/Epaminondaslage/instalacao-embutida-1) |
+| **9ª** | Instalações Embutidas II |  [GitHub](https://github.com/Epaminondaslage/instalacao-embutida-2) |
+| **10ª** | Lâmpadas LED Tubulares |  [GitHub](https://github.com/Epaminondaslage/led-tubular) |
+| **11ª** | Sinalizador de Portão |  [GitHub](https://github.com/Epaminondaslage/multivibrador-astavel) |
+| **12ª** | DR e DPS |  [GitHub](https://github.com/Epaminondaslage/dr-dps) |
+| **13ª** | Minuteria |  [GitHub](https://github.com/Epaminondaslage/DK-C-01) |
+| **14ª** | Quadro de Chamadas |  [GitHub](https://github.com/Epaminondaslage/quadro_de_chamadas) · 📊 [Slides](https://drive.google.com/file/d/1TBwP9LjOKi482zuKBaX_k74yYD7RgEMy) |
+| **15ª** | Ventilador de Teto |  [GitHub](https://github.com/Epaminondaslage/ventilador-de-teto) |
+| **16ª** | Relé de Impulso |  [GitHub](https://github.com/Epaminondaslage/rele-impulso) |
+| **17ª** | Relé Fotoelétrico |  [GitHub](https://github.com/Epaminondaslage/rele-fotoeletrico) |
+| **18ª** | Chave-Bóia |  [GitHub](https://github.com/Epaminondaslage/chave-boia) |
+| **19ª** | Programador de Horário |  [GitHub](https://github.com/Epaminondaslage/programador-de-horario) |
+| **20ª** | Sistemas de CFTV |  [GitHub](https://github.com/Epaminondaslage/PLIEP-CFTV) |
+| **21ª** | Vídeo Porteiro |  [GitHub](https://github.com/Epaminondaslage/video-porteiro) |
+| **22ª** | Cabeamento Estruturado | 📕 [Guia](https://drive.google.com/file/d/1NzsIF62M6m5E8GVjR6NKcUD4ptzd1OIR) · 📊 [Slides](https://drive.google.com/file/d/1llCpq6oF1gC6lu-nBNZfBqK2O17OCh2Q) |
+| **23ª** | Telefonia IP – PABX | 📕 [Guia](https://drive.google.com/file/d/1GgOUMhBzNwHICMluXs709TqBQ8-HF6aA) · 📊 [Slides](https://drive.google.com/file/d/181R5DyzGPlcKbSN_KNqWs86Zv3naM-25) ·  [GitHub](https://github.com/Epaminondaslage/PLIEP-PBXIP) |
 
 ---
 
