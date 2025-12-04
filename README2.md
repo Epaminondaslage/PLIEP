@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="120">
 </div>
 
-## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**
+### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**
 ### **Departamento de Engenharia Elétrica**
-#### **Coordenação do Curso de Eletrotécnica**
+### **Coordenação do Curso de Eletrotécnica**
 
 ### Disciplina: **PLIEP – Prática de Laboratório de Instalações Elétricas Prediais**
 
