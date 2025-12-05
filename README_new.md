@@ -9,7 +9,7 @@
 ---
 
 ### Disciplina: **PLIEP – Prática de Laboratório de Instalações Elétricas Prediais**
-## Descrição do Laboratório
+### Descrição do Laboratório
 
 O **Laboratório de Instalações Elétricas Prediais** é um ambiente didático especializado para o desenvolvimento de competências técnicas nas áreas de:
 
@@ -34,7 +34,7 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 ---
 
-## Professores da Disciplina
+### Professores da Disciplina
 
 | Nome | Currículo |
 |------|-----------|
@@ -44,7 +44,7 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 ---
 
-##  Documentos Importantes
+###  Documentos Importantes
 - 🔹 [Ementa da Disciplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
 - 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
@@ -261,7 +261,7 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 ---
 
-#  Material Didático Complementar
+### Material Didático Complementar
 
 ###  Guia – Prof. Colimar Marques Vieira
 📎 [Baixar Apostila](https://drive.google.com/file/d/1GgpoYiPZgxRMmqZywpOUZKCYdzChKYSK)
@@ -271,7 +271,7 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 
 ---
 
-#  Agradecimentos
+###  Agradecimentos
 
 - **Prof. Colimar Marques Vieira**  
   🛠 Elaboração do Guia de Aulas  
