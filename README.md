@@ -45,8 +45,8 @@ O espaço possibilita a execução de **montagens reais, simulações de campo e
 ---
 
 ###  Documentos Importantes
-- 🔹 [Ementa da Disciplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
-- 🔹 [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
+- [Ementa da Disciplina](https://github.com/Epaminondaslage/PLIEP/blob/main/ementa_2025.md)
+- [Normas para Uso do Laboratório](https://github.com/Epaminondaslage/PLIEP/blob/main/normas_de_seguranca.md)
 
 ---
 
