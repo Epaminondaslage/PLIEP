@@ -20,11 +20,7 @@ O **Laboratório de Instalações Elétricas Prediais** é um ambiente didático
 
 O laboratório dispõe de **bancadas**, **painéis e boxes didáticos**, **dispositivos de proteção**, **sistemas de iluminação, sinalização, automação, CFTV, telefonia IP** e **infraestrutura completa para cabeamento estruturado**.
 
-O espaço possibilita a execução de **montagens reais, simulações de campo e testes operacionais**, em conformidade com as normas técnicas vigentes:
-
-- **NBR 5410**
-- **NBR 5419**
-- **NBR 14565**
+O espaço possibilita a execução de **montagens reais, simulações de campo e testes operacionais**, em conformidade com as normas técnicas vigentes entre elas a **NBR 5410**.
 
 📍 **Local:** Sala **203 – Prédio 19**
 
