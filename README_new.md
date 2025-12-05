@@ -6,11 +6,9 @@
 <p align="center"><strong>Departamento de Engenharia Elétrica</strong></p>
 <p align="center"><strong>Coordenação do Curso de Eletrotécnica</strong></p>
 
-
-### Disciplina: **PLIEP – Prática de Laboratório de Instalações Elétricas Prediais**
-
 ---
 
+### Disciplina: **PLIEP – Prática de Laboratório de Instalações Elétricas Prediais**
 ## Descrição do Laboratório
 
 O **Laboratório de Instalações Elétricas Prediais** é um ambiente didático especializado para o desenvolvimento de competências técnicas nas áreas de:
