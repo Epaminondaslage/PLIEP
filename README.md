@@ -18,7 +18,7 @@ O **Laboratório de Instalações Elétricas Prediais** é um ambiente didático
 - Proteção elétrica  
 - Comunicação e redes de dados  
 
-O laboratório dispõe de **bancadas**, **painéis e boxes didáticos**, **dispositivos de proteção**, **sistemas de iluminação, sinalização, automação, CFTV, telefonia IP** e **infraestrutura completa para cabeamento estruturado**.
+O laboratório dispõe de **bancadas**, **painéis e boxes didáticos**, **dispositivos de proteção**, **sistemas de iluminação, sinalização, automação, CFTV, telefonia IP** e **infraestrutura para cabeamento estruturado**.
 
 O espaço possibilita a execução de **montagens reais, simulações de campo e testes operacionais**, em conformidade com as normas técnicas vigentes entre elas a **NBR 5410**.
 
