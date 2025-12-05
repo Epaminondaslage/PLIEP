@@ -1,10 +1,11 @@
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="120">
-</div>
+</p>
 
-### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS – CEFET-MG**
-### **Departamento de Engenharia Elétrica**
-### **Coordenação do Curso de Eletrotécnica**
+<p align="center"><strong>CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS – CEFET-MG</strong></p>
+<p align="center"><strong>Departamento de Engenharia Elétrica</strong></p>
+<p align="center"><strong>Coordenação do Curso de Eletrotécnica</strong></p>
+
 
 ### Disciplina: **PLIEP – Prática de Laboratório de Instalações Elétricas Prediais**
 
